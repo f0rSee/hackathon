@@ -1,0 +1,8 @@
+{
+  "matched_rows": 145,
+  "unmatched_rows": 176,
+  "matched_csv": "/home/claw/projects/hackathon/output/kepler_events_matched.csv",
+  "unmatched_csv": "/home/claw/projects/hackathon/output/kepler_events_unmatched.csv",
+  "matched_geojson": "/home/claw/projects/hackathon/output/kepler_events_matched.geojson",
+  "places_geojson": "/home/claw/projects/hackathon/output/krasnoyarsk_places.geojson"
+}
