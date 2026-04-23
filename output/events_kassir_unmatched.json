@@ -1,0 +1,5319 @@
+[
+  {
+    "id": "kassir:krs:koncert:ruki-vverh-8",
+    "title": "Руки Вверх",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-26T19:00:00+07:00",
+    "endDate": "2026-04-26T21:30:00+07:00",
+    "venue": "Стадион Енисей",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "ruki-vverh-8",
+      "url": "https://krs.kassir.ru/koncert/ruki-vverh-8",
+      "rawTitle": "Руки Вверх",
+      "rawDateText": "26 апреля 19:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.35,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:basta",
+    "title": "Баста",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-24T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Дворец спорта им. Ивана Ярыгина",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "basta",
+      "url": "https://krs.kassir.ru/koncert/basta",
+      "rawTitle": "Баста",
+      "rawDateText": "23 , 24 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.28,
+      "second_score": 0.2716,
+      "reasons": [
+        "name_ratio=0.400",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:kontsert-pavla-voli-bolshoy-stand-up-1",
+    "title": "Павел Воля",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-25T19:00:00+07:00",
+    "endDate": "2026-04-25T21:30:00+07:00",
+    "venue": "Дворец спорта им. Ивана Ярыгина",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kontsert-pavla-voli-bolshoy-stand-up-1",
+      "url": "https://krs.kassir.ru/koncert/kontsert-pavla-voli-bolshoy-stand-up-1",
+      "rawTitle": "Павел Воля",
+      "rawDateText": "25 апреля 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.28,
+      "second_score": 0.2716,
+      "reasons": [
+        "name_ratio=0.400",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:maksim",
+    "title": "МакSим",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-25T19:00:00+07:00",
+    "endDate": "2026-05-25T21:30:00+07:00",
+    "venue": "Ледовый дворец Арена Север",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "maksim",
+      "url": "https://krs.kassir.ru/koncert/maksim",
+      "rawTitle": "МакSим",
+      "rawDateText": "25 мая 19:00 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2857,
+      "second_score": 0.2655,
+      "reasons": [
+        "name_ratio=0.408",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:alex-lim-2",
+    "title": "Алекс Лим",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-29T19:00:00+07:00",
+    "endDate": "2026-04-29T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "alex-lim-2",
+      "url": "https://krs.kassir.ru/koncert/alex-lim-2",
+      "rawTitle": "Алекс Лим",
+      "rawDateText": "29 апреля 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:knyazz-8",
+    "title": "КняZz",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-26T18:00:00+07:00",
+    "endDate": "2026-04-26T20:30:00+07:00",
+    "venue": "Дворец спорта им. Ивана Ярыгина",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "knyazz-8",
+      "url": "https://krs.kassir.ru/koncert/knyazz-8",
+      "rawTitle": "КняZz",
+      "rawDateText": "26 апреля 18:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.28,
+      "second_score": 0.2716,
+      "reasons": [
+        "name_ratio=0.400",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:tatyana-ovsienko---solnyiy-kontsert-1",
+    "title": "Татьяна Овсиенко",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-11-14T19:00:00+07:00",
+    "endDate": "2026-11-14T21:30:00+07:00",
+    "venue": "Концертный зал Афонтовский",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "tatyana-ovsienko---solnyiy-kontsert-1",
+      "url": "https://krs.kassir.ru/koncert/tatyana-ovsienko---solnyiy-kontsert-1",
+      "rawTitle": "Татьяна Овсиенко",
+      "rawDateText": "14 ноября 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2897,
+      "second_score": 0.245,
+      "reasons": [
+        "name_ratio=0.414",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:dabro",
+    "title": "Dabro",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-01T19:00:00+07:00",
+    "endDate": "2026-05-01T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "dabro",
+      "url": "https://krs.kassir.ru/koncert/dabro",
+      "rawTitle": "Dabro",
+      "rawDateText": "1 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:aleksandr-ivanov-i-gruppa-rondo_2026-05-16",
+    "title": "Александр Иванов и группа \"Рондо\"",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-16T19:00:00+07:00",
+    "endDate": "2026-05-16T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "aleksandr-ivanov-i-gruppa-rondo_2026-05-16",
+      "url": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/aleksandr-ivanov-i-gruppa-rondo_2026-05-16",
+      "rawTitle": "Александр Иванов и группа \"Рондо\"",
+      "rawDateText": "16 мая 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:aleksey-goman-23",
+    "title": "Алексей Гоман",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-16T19:00:00+07:00",
+    "endDate": "2026-05-16T21:30:00+07:00",
+    "venue": "Концертный зал Афонтовский",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "aleksey-goman-23",
+      "url": "https://krs.kassir.ru/koncert/aleksey-goman-23",
+      "rawTitle": "Алексей Гоман",
+      "rawDateText": "16 мая 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2897,
+      "second_score": 0.245,
+      "reasons": [
+        "name_ratio=0.414",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:aleksandr-yushkov-i-blyuzovyiy-orkestr",
+    "title": "Александр Юшков и блюзовый оркестр.",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-04-23T20:30:00+07:00",
+    "endDate": "2026-04-23T23:00:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "aleksandr-yushkov-i-blyuzovyiy-orkestr",
+      "url": "https://krs.kassir.ru/koncert/aleksandr-yushkov-i-blyuzovyiy-orkestr",
+      "rawTitle": "Александр Юшков и блюзовый оркестр.",
+      "rawDateText": "23 апреля 20:30 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:ani-lorak-6",
+    "title": "Ани Лорак",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-30T19:00:00+07:00",
+    "endDate": "2026-05-30T21:30:00+07:00",
+    "venue": "Ледовый дворец Арена Север",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "ani-lorak-6",
+      "url": "https://krs.kassir.ru/koncert/ani-lorak-6",
+      "rawTitle": "Ани Лорак",
+      "rawDateText": "30 мая 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2857,
+      "second_score": 0.2655,
+      "reasons": [
+        "name_ratio=0.408",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:melnitsa",
+    "title": "Группа Мельница",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-23T19:00:00+07:00",
+    "endDate": "2026-05-23T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "melnitsa",
+      "url": "https://krs.kassir.ru/koncert/melnitsa",
+      "rawTitle": "Группа Мельница",
+      "rawDateText": "23 мая 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:shou-fokusov-illyuziya-obmana",
+    "title": "Шоу фокусов. Иллюзия обмана",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-25T19:00:00+07:00",
+    "endDate": "2026-04-25T21:30:00+07:00",
+    "venue": "ТРК КомсоМолл",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "shou-fokusov-illyuziya-obmana",
+      "url": "https://krs.kassir.ru/koncert/shou-fokusov-illyuziya-obmana",
+      "rawTitle": "Шоу фокусов. Иллюзия обмана",
+      "rawDateText": "25 апреля 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3294,
+      "second_score": 0.3182,
+      "reasons": [
+        "name_ratio=0.471",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:kvartet-i-passajiryi-otlojennyih-reysov",
+    "title": "Квартет И. ПРЕМЬЕРА! \"Пассажиры отложенных рейсов\"",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-06-10T19:00:00+07:00",
+    "endDate": "2026-06-10T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kvartet-i-passajiryi-otlojennyih-reysov",
+      "url": "https://krs.kassir.ru/teatr/kvartet-i-passajiryi-otlojennyih-reysov",
+      "rawTitle": "Квартет И. ПРЕМЬЕРА! \"Пассажиры отложенных рейсов\"",
+      "rawDateText": "10 июня 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:kvartirnik-so-zvezdoy-svetlana-kolyanova_2026-04-27",
+    "title": "Квартирник со звездой: Светлана Кольянова",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-27T19:40:00+07:00",
+    "endDate": "2026-04-27T22:10:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kvartirnik-so-zvezdoy-svetlana-kolyanova_2026-04-27",
+      "url": "https://krs.kassir.ru/koncert/kitchen-lab/kvartirnik-so-zvezdoy-svetlana-kolyanova_2026-04-27",
+      "rawTitle": "Квартирник со звездой: Светлана Кольянова",
+      "rawDateText": "27 апреля 19:40 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:gruppa-kraski-3",
+    "title": "Краски",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-06-20T20:00:00+07:00",
+    "endDate": "2026-06-20T22:30:00+07:00",
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "gruppa-kraski-3",
+      "url": "https://krs.kassir.ru/koncert/gruppa-kraski-3",
+      "rawTitle": "Краски",
+      "rawDateText": "20 июня 20:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:the-hatters-10-let-krasnoyarsk--24-maya--arena-sever_2026-05-24",
+    "title": "The Hatters",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-24T20:00:00+07:00",
+    "endDate": "2026-05-24T22:30:00+07:00",
+    "venue": "Ледовый дворец Арена Север",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "the-hatters-10-let-krasnoyarsk--24-maya--arena-sever_2026-05-24",
+      "url": "https://krs.kassir.ru/koncert/ledovyiy-dvorets-arena-sever-5a6b1176b3d8f/the-hatters-10-let-krasnoyarsk--24-maya--arena-sever_2026-05-24",
+      "rawTitle": "The Hatters 10 лет",
+      "rawDateText": "24 мая 20:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2857,
+      "second_score": 0.2655,
+      "reasons": [
+        "name_ratio=0.408",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:aleksandr-ustyugov-pesni-vladimira-vyisotskogo-v-soprovojdenii-orkestra-1",
+    "title": "Александр Устюгов: Песни Владимира Высоцкого в сопровождении оркестра",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-05-26T19:00:00+07:00",
+    "endDate": "2026-05-26T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "aleksandr-ustyugov-pesni-vladimira-vyisotskogo-v-soprovojdenii-orkestra-1",
+      "url": "https://krs.kassir.ru/koncert/aleksandr-ustyugov-pesni-vladimira-vyisotskogo-v-soprovojdenii-orkestra-1",
+      "rawTitle": "Александр Устюгов: Песни Владимира Высоцкого в сопровождении оркестра",
+      "rawDateText": "26 мая 19:00 вт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:dora-16",
+    "title": "Дора",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-25T19:00:00+07:00",
+    "endDate": "2026-04-25T21:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "dora-16",
+      "url": "https://krs.kassir.ru/koncert/dora-16",
+      "rawTitle": "Дора",
+      "rawDateText": "25 апреля 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:moon-river-lunnaya-reka",
+    "title": "Moon river (Лунная река)",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "moon-river-lunnaya-reka",
+      "url": "https://krs.kassir.ru/koncert/moon-river-lunnaya-reka",
+      "rawTitle": "Moon river (Лунная река)",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:mot-13",
+    "title": "МОТ",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-07T19:00:00+07:00",
+    "endDate": "2026-10-07T21:30:00+07:00",
+    "venue": "Ледовый дворец Арена Север",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "mot-13",
+      "url": "https://krs.kassir.ru/koncert/mot-13",
+      "rawTitle": "МОТ",
+      "rawDateText": "7 октября 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2857,
+      "second_score": 0.2655,
+      "reasons": [
+        "name_ratio=0.408",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:kaver-gruppa-ot-verblyuza",
+    "title": "Кавер-группа От Верблюза",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-28T20:00:00+07:00",
+    "endDate": "2026-04-28T22:30:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kaver-gruppa-ot-verblyuza",
+      "url": "https://krs.kassir.ru/koncert/kaver-gruppa-ot-verblyuza",
+      "rawTitle": "Кавер-группа От Верблюза",
+      "rawDateText": "28 апреля 20:00 вт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:plazma",
+    "title": "Plazma",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-06-05T00:00:00+07:00",
+    "endDate": null,
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "plazma",
+      "url": "https://krs.kassir.ru/koncert/plazma",
+      "rawTitle": "Plazma",
+      "rawDateText": "4 , 5 июня",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:moya-mishel-7",
+    "title": "Моя Мишель",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-14T19:00:00+07:00",
+    "endDate": "2026-05-14T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "moya-mishel-7",
+      "url": "https://krs.kassir.ru/koncert/moya-mishel-7",
+      "rawTitle": "Моя Мишель",
+      "rawDateText": "14 мая 19:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:denis-maydanov-3",
+    "title": "Денис Майданов",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-13T19:00:00+07:00",
+    "endDate": "2026-10-13T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "denis-maydanov-3",
+      "url": "https://krs.kassir.ru/koncert/denis-maydanov-3",
+      "rawTitle": "Денис Майданов",
+      "rawDateText": "13 октября 19:00 вт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:zolotoy-sostav-strelok-5",
+    "title": "Золотой состав Стрелок",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-16T20:00:00+07:00",
+    "endDate": "2026-05-16T22:30:00+07:00",
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "zolotoy-sostav-strelok-5",
+      "url": "https://krs.kassir.ru/koncert/zolotoy-sostav-strelok-5",
+      "rawTitle": "Золотой состав Стрелок",
+      "rawDateText": "16 мая 20:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:jazz-jam-session",
+    "title": "Jazz Jam session",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "jazz-jam-session",
+      "url": "https://krs.kassir.ru/koncert/jazz-jam-session",
+      "rawTitle": "Jazz Jam session",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:ak-47-8",
+    "title": "АК-47",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-06-12T19:00:00+07:00",
+    "endDate": "2026-06-12T21:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "ak-47-8",
+      "url": "https://krs.kassir.ru/koncert/ak-47-8",
+      "rawTitle": "АК-47",
+      "rawDateText": "12 июня 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:chipachip-24",
+    "title": "ChipaChip",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-15T18:00:00+07:00",
+    "endDate": "2026-05-15T20:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "chipachip-24",
+      "url": "https://krs.kassir.ru/koncert/chipachip-24",
+      "rawTitle": "ChipaChip",
+      "rawDateText": "15 мая 18:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:tehnologiya-3",
+    "title": "Технология",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-24T00:00:00+07:00",
+    "endDate": null,
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "tehnologiya-3",
+      "url": "https://krs.kassir.ru/koncert/tehnologiya-3",
+      "rawTitle": "Технология",
+      "rawDateText": "23 , 24 апреля",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:thomas-mraz-8",
+    "title": "Thomas Mraz",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-26T20:00:00+07:00",
+    "endDate": "2026-04-26T22:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "thomas-mraz-8",
+      "url": "https://krs.kassir.ru/koncert/thomas-mraz-8",
+      "rawTitle": "Thomas Mraz",
+      "rawDateText": "26 апреля 20:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:shou:sergey-orlov-31",
+    "title": "Сергей Орлов",
+    "category": "show",
+    "tags": [
+      "show"
+    ],
+    "startDate": "2026-09-24T19:00:00+07:00",
+    "endDate": "2026-09-24T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "sergey-orlov-31",
+      "url": "https://krs.kassir.ru/shou/sergey-orlov-31",
+      "rawTitle": "Сергей Орлов",
+      "rawDateText": "24 сентября 19:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:mari-kraymbreri-4",
+    "title": "Мари Краймбрери",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-09-25T20:00:00+07:00",
+    "endDate": "2026-09-25T22:30:00+07:00",
+    "venue": "Ледовый дворец Арена Север",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "mari-kraymbreri-4",
+      "url": "https://krs.kassir.ru/koncert/mari-kraymbreri-4",
+      "rawTitle": "Мари Краймбрери",
+      "rawDateText": "25 сентября 20:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2857,
+      "second_score": 0.2655,
+      "reasons": [
+        "name_ratio=0.408",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:vyacheslav-butusov-nautilus-pompilius-1",
+    "title": "Вячеслав Бутусов и группа Орден Славы: Nautilus Pompilius",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-09-25T19:00:00+07:00",
+    "endDate": "2026-09-25T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "vyacheslav-butusov-nautilus-pompilius-1",
+      "url": "https://krs.kassir.ru/koncert/vyacheslav-butusov-nautilus-pompilius-1",
+      "rawTitle": "Вячеслав Бутусов и группа Орден Славы: Nautilus Pompilius",
+      "rawDateText": "25 сентября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:chernyiy-kofe-12",
+    "title": "Черный кофе",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-14T20:00:00+07:00",
+    "endDate": "2026-05-14T22:30:00+07:00",
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "chernyiy-kofe-12",
+      "url": "https://krs.kassir.ru/koncert/chernyiy-kofe-12",
+      "rawTitle": "Черный кофе",
+      "rawDateText": "14 мая 20:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:gruppa-butyirka_2026-11-21",
+    "title": "Бутырка",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-11-21T19:00:00+07:00",
+    "endDate": "2026-11-21T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "gruppa-butyirka_2026-11-21",
+      "url": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/gruppa-butyirka_2026-11-21",
+      "rawTitle": "Бутырка",
+      "rawDateText": "21 ноября 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:byanka-9",
+    "title": "Бьянка",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-09-25T19:00:00+07:00",
+    "endDate": "2026-09-25T21:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "byanka-9",
+      "url": "https://krs.kassir.ru/koncert/byanka-9",
+      "rawTitle": "Бьянка",
+      "rawDateText": "25 сентября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:viktor-komarov-16",
+    "title": "Виктор Комаров",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-11-15T20:00:00+07:00",
+    "endDate": "2026-11-15T22:30:00+07:00",
+    "venue": "ДК Комбайностроителей",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "viktor-komarov-16",
+      "url": "https://krs.kassir.ru/koncert/viktor-komarov-16",
+      "rawTitle": "Виктор Комаров",
+      "rawDateText": "15 ноября 20:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.317,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.453",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:sektor-gaza-posvyaschenie-yuriyu-hoyu-4",
+    "title": "Сектор Газа: Посвящение Юрию Хою",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-15T19:00:00+07:00",
+    "endDate": "2026-10-15T21:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "sektor-gaza-posvyaschenie-yuriyu-hoyu-4",
+      "url": "https://krs.kassir.ru/koncert/sektor-gaza-posvyaschenie-yuriyu-hoyu-4",
+      "rawTitle": "Сектор Газа: Посвящение Юрию Хою",
+      "rawDateText": "15 октября 19:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:ssshhhiiittt-23",
+    "title": "ssshhhiiittt!",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-06-03T20:00:00+07:00",
+    "endDate": "2026-06-03T22:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "ssshhhiiittt-23",
+      "url": "https://krs.kassir.ru/koncert/ssshhhiiittt-23",
+      "rawTitle": "ssshhhiiittt!",
+      "rawDateText": "3 июня 20:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:irina-i-aleksandr-krug_2026-09-20",
+    "title": "Ирина и Александр Круг",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-09-20T19:00:00+07:00",
+    "endDate": "2026-09-20T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "irina-i-aleksandr-krug_2026-09-20",
+      "url": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/irina-i-aleksandr-krug_2026-09-20",
+      "rawTitle": "Ирина и Александр Круг",
+      "rawDateText": "20 сентября 19:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:orkestr-sagmo-saundtreki-eynaudi-1",
+    "title": "Оркестр Cagmo: Саундтреки Эйнауди – Двойной концерт при свечах",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-11-19T19:00:00+07:00",
+    "endDate": "2026-11-19T21:30:00+07:00",
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "orkestr-sagmo-saundtreki-eynaudi-1",
+      "url": "https://krs.kassir.ru/koncert/orkestr-sagmo-saundtreki-eynaudi-1",
+      "rawTitle": "Оркестр Cagmo: Саундтреки Эйнауди – Двойной концерт при свечах",
+      "rawDateText": "19 ноября 19:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4794,
+      "second_score": 0.4475,
+      "reasons": [
+        "name_ratio=0.395",
+        "token_overlap=0.143",
+        "type_boost=концерт:arts_centre",
+        "type_boost=оркестр:arts_centre",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:propaganda-4",
+    "title": "Пропаганда",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-07-05T00:00:00+07:00",
+    "endDate": null,
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "propaganda-4",
+      "url": "https://krs.kassir.ru/koncert/propaganda-4",
+      "rawTitle": "Пропаганда",
+      "rawDateText": "4 , 5 июля",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:vadim-samoylov--agata-kristi-s-orkestrom-1",
+    "title": "Вадим Самойлов (Агата Кристи) с оркестром",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-10-15T19:00:00+07:00",
+    "endDate": "2026-10-15T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "vadim-samoylov--agata-kristi-s-orkestrom-1",
+      "url": "https://krs.kassir.ru/koncert/vadim-samoylov--agata-kristi-s-orkestrom-1",
+      "rawTitle": "Вадим Самойлов (Агата Кристи) с оркестром",
+      "rawDateText": "15 октября 19:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:lsp",
+    "title": "ЛСП",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-06-13T19:00:00+07:00",
+    "endDate": "2026-06-13T21:30:00+07:00",
+    "venue": "Ледовый дворец Арена Север",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lsp",
+      "url": "https://krs.kassir.ru/koncert/lsp",
+      "rawTitle": "ЛСП",
+      "rawDateText": "13 июня 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2857,
+      "second_score": 0.2655,
+      "reasons": [
+        "name_ratio=0.408",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:plamenev-6",
+    "title": "Plamenev",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-21T20:00:00+07:00",
+    "endDate": "2026-05-21T22:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "plamenev-6",
+      "url": "https://krs.kassir.ru/koncert/plamenev-6",
+      "rawTitle": "Plamenev",
+      "rawDateText": "21 мая 20:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:shou:uralskie-pelmeni-luchshee-11",
+    "title": "Уральские Пельмени: Лучшее",
+    "category": "show",
+    "tags": [
+      "show"
+    ],
+    "startDate": "2026-10-17T19:30:00+07:00",
+    "endDate": "2026-10-17T22:00:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "uralskie-pelmeni-luchshee-11",
+      "url": "https://krs.kassir.ru/shou/uralskie-pelmeni-luchshee-11",
+      "rawTitle": "Уральские Пельмени: Лучшее",
+      "rawDateText": "17 октября 19:30 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:mihail-shufutinskiy-12",
+    "title": "Михаил Шуфутинский",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-05T19:00:00+07:00",
+    "endDate": "2026-10-05T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "mihail-shufutinskiy-12",
+      "url": "https://krs.kassir.ru/koncert/mihail-shufutinskiy-12",
+      "rawTitle": "Михаил Шуфутинский",
+      "rawDateText": "5 октября 19:00 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:scally-milano-4",
+    "title": "Scally Milano",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-08T19:00:00+07:00",
+    "endDate": "2026-05-08T21:30:00+07:00",
+    "venue": "Клуб-галерея Эрмитаж",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "scally-milano-4",
+      "url": "https://krs.kassir.ru/koncert/scally-milano-4",
+      "rawTitle": "Scally Milano",
+      "rawDateText": "8 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:klassik-bend-muzyika-kinoekranov",
+    "title": "Классик-Бэнд. Музыка киноэкранов",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-06T19:00:00+07:00",
+    "endDate": "2026-05-06T21:30:00+07:00",
+    "venue": "Дворец культуры и спорта Металлургов",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "klassik-bend-muzyika-kinoekranov",
+      "url": "https://krs.kassir.ru/koncert/klassik-bend-muzyika-kinoekranov",
+      "rawTitle": "Классик-Бэнд. Музыка киноэкранов",
+      "rawDateText": "6 мая 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3109,
+      "second_score": 0.2689,
+      "reasons": [
+        "name_ratio=0.273",
+        "token_overlap=0.000",
+        "type_boost=кино:cinema",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:shura",
+    "title": "Шура",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-11-01T20:00:00+07:00",
+    "endDate": "2026-11-01T22:30:00+07:00",
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "shura",
+      "url": "https://krs.kassir.ru/koncert/shura",
+      "rawTitle": "Шура",
+      "rawDateText": "1 ноября 20:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:hmyirov-13",
+    "title": "Хмыров",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-28T20:00:00+07:00",
+    "endDate": "2026-10-28T22:30:00+07:00",
+    "venue": "Baker Street на Д.Мартынова",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "hmyirov-13",
+      "url": "https://krs.kassir.ru/koncert/hmyirov-13",
+      "rawTitle": "Хмыров",
+      "rawDateText": "28 октября 20:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2762,
+      "second_score": 0.2471,
+      "reasons": [
+        "name_ratio=0.333",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:lena-vasilyok_2026-10-22",
+    "title": "Лена Василёк",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-22T19:00:00+07:00",
+    "endDate": "2026-10-22T21:30:00+07:00",
+    "venue": "ДК Комбайностроителей",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lena-vasilyok_2026-10-22",
+      "url": "https://krs.kassir.ru/koncert/dk-kombaynostroiteley/lena-vasilyok_2026-10-22",
+      "rawTitle": "Лена Василёк",
+      "rawDateText": "22 октября 19:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.317,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.453",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:orkestr-polya-moria---zolotaya-kollektsiya-iz-repertuara_2026-10-10",
+    "title": "Оркестр Поля Мориа: Золотая коллекция из репертуара",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-10-10T19:00:00+07:00",
+    "endDate": "2026-10-10T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "orkestr-polya-moria---zolotaya-kollektsiya-iz-repertuara_2026-10-10",
+      "url": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/orkestr-polya-moria---zolotaya-kollektsiya-iz-repertuara_2026-10-10",
+      "rawTitle": "Оркестр Поля Мориа: Золотая коллекция из репертуара",
+      "rawDateText": "10 октября 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:rok-ostrov",
+    "title": "Рок-Острова",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-08T20:00:00+07:00",
+    "endDate": "2026-10-08T22:30:00+07:00",
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "rok-ostrov",
+      "url": "https://krs.kassir.ru/koncert/rok-ostrov",
+      "rawTitle": "Рок-Острова",
+      "rawDateText": "8 октября 20:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:trubetskoy-6",
+    "title": "Трубецкой",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-21T20:00:00+07:00",
+    "endDate": "2026-05-21T22:30:00+07:00",
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "trubetskoy-6",
+      "url": "https://krs.kassir.ru/koncert/trubetskoy-6",
+      "rawTitle": "Трубецкой",
+      "rawDateText": "21 мая 20:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:lena-vasilyok-abakan_2026-10-21",
+    "title": "Лена Василёк (Абакан)",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-21T19:00:00+07:00",
+    "endDate": "2026-10-21T21:30:00+07:00",
+    "venue": "Абаканский Дворец Молодежи",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lena-vasilyok-abakan_2026-10-21",
+      "url": "https://krs.kassir.ru/koncert/mbuk-abakanskiy-dvorets-molodeji/lena-vasilyok-abakan_2026-10-21",
+      "rawTitle": "Лена Василёк (Абакан)",
+      "rawDateText": "21 октября 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3182,
+      "second_score": 0.2702,
+      "reasons": [
+        "name_ratio=0.455",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:hityi-sting-s-simfonicheskim-orkestrom-desert-rose-symphony-5",
+    "title": "Хиты Sting с симфоническим оркестром: Desert Rose Symphony",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-10-25T19:00:00+07:00",
+    "endDate": "2026-10-25T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "hityi-sting-s-simfonicheskim-orkestrom-desert-rose-symphony-5",
+      "url": "https://krs.kassir.ru/koncert/hityi-sting-s-simfonicheskim-orkestrom-desert-rose-symphony-5",
+      "rawTitle": "Хиты Sting с симфоническим оркестром: Desert Rose Symphony",
+      "rawDateText": "25 октября 19:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:stand-up-kontsert-guram-amaryan-bazar-v-krasnoyarske_2026-10-26",
+    "title": "Гурам Амарян: Stand Up концерт \"Базар\"",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-26T20:00:00+07:00",
+    "endDate": "2026-10-26T22:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "stand-up-kontsert-guram-amaryan-bazar-v-krasnoyarske_2026-10-26",
+      "url": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/stand-up-kontsert-guram-amaryan-bazar-v-krasnoyarske_2026-10-26",
+      "rawTitle": "Гурам Амарян: Stand Up концерт \"Базар\"",
+      "rawDateText": "26 октября 20:00 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:irina-krug_2026-09-19",
+    "title": "Ирина Круг (Норильск)",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-09-19T19:00:00+07:00",
+    "endDate": "2026-09-19T21:30:00+07:00",
+    "venue": "Городской центр культуры г. Норильск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "irina-krug_2026-09-19",
+      "url": "https://krs.kassir.ru/koncert/gorodskoy-tsentr-kulturyi-g-norilsk/irina-krug_2026-09-19",
+      "rawTitle": "Ирина Круг (Норильск)",
+      "rawDateText": "19 сентября 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3394,
+      "second_score": 0.3231,
+      "reasons": [
+        "name_ratio=0.485",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:queen-luchshie-hityi-c-simfonicheskim-orkestrom-one-vision-9",
+    "title": "Queen лучшие хиты c симфоническим оркестром. ONE VISION",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-05-26T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Арт-Холл Синема",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "queen-luchshie-hityi-c-simfonicheskim-orkestrom-one-vision-9",
+      "url": "https://krs.kassir.ru/koncert/queen-luchshie-hityi-c-simfonicheskim-orkestrom-one-vision-9",
+      "rawTitle": "Queen лучшие хиты c симфоническим оркестром. ONE VISION",
+      "rawDateText": "25 , 26 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.475,
+      "second_score": 0.3981,
+      "reasons": [
+        "name_ratio=0.571",
+        "token_overlap=0.250",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:cream-soda-9",
+    "title": "Cream Soda",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-09-24T20:00:00+07:00",
+    "endDate": "2026-09-24T22:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "cream-soda-9",
+      "url": "https://krs.kassir.ru/koncert/cream-soda-9",
+      "rawTitle": "Cream Soda",
+      "rawDateText": "24 сентября 20:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:mnogotochie-i-whit-hot-ice",
+    "title": "Многоточие и Whit Hot Ice",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-18T20:00:00+07:00",
+    "endDate": "2026-10-18T22:30:00+07:00",
+    "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "mnogotochie-i-whit-hot-ice",
+      "url": "https://krs.kassir.ru/koncert/mnogotochie-i-whit-hot-ice",
+      "rawTitle": "Многоточие и Whit Hot Ice",
+      "rawDateText": "18 октября 20:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.332,
+      "second_score": 0.3079,
+      "reasons": [
+        "name_ratio=0.360",
+        "token_overlap=0.000",
+        "restaurant_hint",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:trinadtsat-karat-42",
+    "title": "Тринадцать карат",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-27T20:00:00+07:00",
+    "endDate": "2026-10-27T22:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "trinadtsat-karat-42",
+      "url": "https://krs.kassir.ru/koncert/trinadtsat-karat-42",
+      "rawTitle": "Тринадцать карат",
+      "rawDateText": "27 октября 20:00 вт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:orkestr-cagmo-pesni-sovetskih-kinofilmov",
+    "title": "Оркестр Cagmo: Песни Советских кинофильмов",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-01-23T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "orkestr-cagmo-pesni-sovetskih-kinofilmov",
+      "url": "https://krs.kassir.ru/koncert/orkestr-cagmo-pesni-sovetskih-kinofilmov",
+      "rawTitle": "Оркестр Cagmo: Песни Советских кинофильмов",
+      "rawDateText": "23 января 2027",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3994,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:orkestr-polya-moria---zolotaya-kollektsiya-iz-repertuara_2026-10-09",
+    "title": "Оркестр Поля Мориа: Золотая коллекция из репертуара (Ачинск)",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-10-09T19:00:00+07:00",
+    "endDate": "2026-10-09T21:30:00+07:00",
+    "venue": "Городской ДК г. Ачинск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "orkestr-polya-moria---zolotaya-kollektsiya-iz-repertuara_2026-10-09",
+      "url": "https://krs.kassir.ru/koncert/zal-gordk-gachinsk/orkestr-polya-moria---zolotaya-kollektsiya-iz-repertuara_2026-10-09",
+      "rawTitle": "Оркестр Поля Мориа: Золотая коллекция из репертуара (Ачинск)",
+      "rawDateText": "9 октября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3111,
+      "second_score": 0.2947,
+      "reasons": [
+        "name_ratio=0.444",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:arhiereyskiy-mujskoy-hor-aksios",
+    "title": "Архиерейский мужской хор Аксиос",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-06-23T19:00:00+07:00",
+    "endDate": "2026-06-23T21:30:00+07:00",
+    "venue": "Концертный зал Афонтовский",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "arhiereyskiy-mujskoy-hor-aksios",
+      "url": "https://krs.kassir.ru/koncert/arhiereyskiy-mujskoy-hor-aksios",
+      "rawTitle": "Архиерейский мужской хор Аксиос",
+      "rawDateText": "23 июня 19:00 вт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2897,
+      "second_score": 0.245,
+      "reasons": [
+        "name_ratio=0.414",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:kriminalnyiy-bit-15",
+    "title": "Криминальный бит",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-11-01T20:00:00+07:00",
+    "endDate": "2026-11-01T22:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kriminalnyiy-bit-15",
+      "url": "https://krs.kassir.ru/koncert/kriminalnyiy-bit-15",
+      "rawTitle": "Криминальный бит",
+      "rawDateText": "1 ноября 20:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:s-lyubovyu-ernest-audiospektakl-1",
+    "title": "С любовью, Эрнест",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Бар Радость",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "s-lyubovyu-ernest-audiospektakl-1",
+      "url": "https://krs.kassir.ru/teatr/s-lyubovyu-ernest-audiospektakl-1",
+      "rawTitle": "С любовью, Эрнест",
+      "rawDateText": "апрель – декабрь",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.325,
+      "second_score": 0.3043,
+      "reasons": [
+        "name_ratio=0.357",
+        "token_overlap=0.250",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:orkestr-cagmo-rok-simfoniya-pri-svechah-5",
+    "title": "Оркестр Cagmo: Рок-Симфония при свечах",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-10-31T18:00:00+07:00",
+    "endDate": "2026-10-31T20:30:00+07:00",
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "orkestr-cagmo-rok-simfoniya-pri-svechah-5",
+      "url": "https://krs.kassir.ru/koncert/orkestr-cagmo-rok-simfoniya-pri-svechah-5",
+      "rawTitle": "Оркестр Cagmo: Рок-Симфония при свечах",
+      "rawDateText": "31 октября 18:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3994,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:orkestr-cagmo-simfoniya-the-witcher",
+    "title": "Оркестр Cagmo: Симфония Ведьмак при свечах (Красноярск)",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-06-26T19:00:00+07:00",
+    "endDate": "2026-06-26T21:30:00+07:00",
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "orkestr-cagmo-simfoniya-the-witcher",
+      "url": "https://krs.kassir.ru/koncert/orkestr-cagmo-simfoniya-the-witcher",
+      "rawTitle": "Оркестр Cagmo: Симфония Ведьмак при свечах (Красноярск)",
+      "rawDateText": "26 июня 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3994,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:orkestr-cagmo-saundtreki-hansa-tsimmera-7",
+    "title": "Оркестр Cagmo: Саундтреки Ханса Циммера при свечах",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-09-23T19:00:00+07:00",
+    "endDate": "2026-09-23T21:30:00+07:00",
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "orkestr-cagmo-saundtreki-hansa-tsimmera-7",
+      "url": "https://krs.kassir.ru/koncert/orkestr-cagmo-saundtreki-hansa-tsimmera-7",
+      "rawTitle": "Оркестр Cagmo: Саундтреки Ханса Циммера при свечах",
+      "rawDateText": "23 сентября 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3994,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:surganova-i-orkestr",
+    "title": "Сурганова и Оркестр",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-10-24T19:00:00+07:00",
+    "endDate": "2026-10-24T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "surganova-i-orkestr",
+      "url": "https://krs.kassir.ru/koncert/surganova-i-orkestr",
+      "rawTitle": "Сурганова и Оркестр",
+      "rawDateText": "24 октября 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:lena-vasilyok-lesosibirsk_2026-10-23",
+    "title": "Лена Василёк (Лесосибирск)",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-23T19:00:00+07:00",
+    "endDate": "2026-10-23T21:30:00+07:00",
+    "venue": "ДК ЛДК №1 г. Лесосибирск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lena-vasilyok-lesosibirsk_2026-10-23",
+      "url": "https://krs.kassir.ru/koncert/dk-ldk-1-g-lesosibirsk/lena-vasilyok-lesosibirsk_2026-10-23",
+      "rawTitle": "Лена Василёк (Лесосибирск)",
+      "rawDateText": "23 октября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2593,
+      "second_score": 0.2406,
+      "reasons": [
+        "name_ratio=0.370",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:legendyi-mtv-orkestr-pri-svechah",
+    "title": "Легенды MTV. Оркестр при свечах",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-05-29T19:00:00+07:00",
+    "endDate": "2026-05-29T21:30:00+07:00",
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "legendyi-mtv-orkestr-pri-svechah",
+      "url": "https://krs.kassir.ru/koncert/legendyi-mtv-orkestr-pri-svechah",
+      "rawTitle": "Легенды MTV. Оркестр при свечах",
+      "rawDateText": "29 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3994,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:neverlove-4",
+    "title": "Neverlove",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-02T19:00:00+07:00",
+    "endDate": "2026-10-02T21:30:00+07:00",
+    "venue": "Circus Concert Hall",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "neverlove-4",
+      "url": "https://krs.kassir.ru/koncert/neverlove-4",
+      "rawTitle": "Neverlove",
+      "rawDateText": "2 октября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3062,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:megamozg-13",
+    "title": "Мегамозг",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-10T19:00:00+07:00",
+    "endDate": "2026-05-10T21:30:00+07:00",
+    "venue": "Клуб-галерея Эрмитаж",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "megamozg-13",
+      "url": "https://krs.kassir.ru/koncert/megamozg-13",
+      "rawTitle": "Мегамозг",
+      "rawDateText": "10 мая 19:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:yorsh---krasnoyarsk_2026-09-20",
+    "title": "ЙОРШ",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-09-20T19:00:00+07:00",
+    "endDate": "2026-09-20T21:30:00+07:00",
+    "venue": "Клуб-галерея Эрмитаж",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "yorsh---krasnoyarsk_2026-09-20",
+      "url": "https://krs.kassir.ru/koncert/klub-galereya-ermitaj/yorsh---krasnoyarsk_2026-09-20",
+      "rawTitle": "ЙОРШ",
+      "rawDateText": "20 сентября 19:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:glavnaya-muzyika-stoletiya-orkestr-pri-svechah",
+    "title": "Главная музыка столетия. Оркестр при свечах",
+    "category": "concert",
+    "tags": [
+      "music",
+      "orchestra"
+    ],
+    "startDate": "2026-05-23T19:00:00+07:00",
+    "endDate": "2026-05-23T21:30:00+07:00",
+    "venue": "Городской дворец культуры г. Зеленогорск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "glavnaya-muzyika-stoletiya-orkestr-pri-svechah",
+      "url": "https://krs.kassir.ru/koncert/glavnaya-muzyika-stoletiya-orkestr-pri-svechah",
+      "rawTitle": "Главная музыка столетия. Оркестр при свечах",
+      "rawDateText": "23 мая 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2698,
+      "second_score": 0.2658,
+      "reasons": [
+        "name_ratio=0.271",
+        "token_overlap=0.000",
+        "type_boost=оркестр:arts_centre",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:saundtreki-sovetskih-kinofilmov",
+    "title": "Саундтреки советских кинофильмов",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-06-02T19:00:00+07:00",
+    "endDate": "2026-06-02T21:30:00+07:00",
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "saundtreki-sovetskih-kinofilmov",
+      "url": "https://krs.kassir.ru/koncert/saundtreki-sovetskih-kinofilmov",
+      "rawTitle": "Саундтреки советских кинофильмов",
+      "rawDateText": "2 июня 19:00 вт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3964,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:lena-vasilyok-zelenogorsk_2026-10-24",
+    "title": "Лена Василёк (Зеленогорск)",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-24T17:00:00+07:00",
+    "endDate": "2026-10-24T19:30:00+07:00",
+    "venue": "Городской дворец культуры г. Зеленогорск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lena-vasilyok-zelenogorsk_2026-10-24",
+      "url": "https://krs.kassir.ru/koncert/gdk-gzelenogorsk/lena-vasilyok-zelenogorsk_2026-10-24",
+      "rawTitle": "Лена Василёк (Зеленогорск)",
+      "rawDateText": "24 октября 17:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2658,
+      "second_score": 0.2638,
+      "reasons": [
+        "name_ratio=0.380",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:gruppa-butyirka_2026-11-20",
+    "title": "Бутырка (Абакан)",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-11-20T19:00:00+07:00",
+    "endDate": "2026-11-20T21:30:00+07:00",
+    "venue": "Абаканский Дворец Молодежи",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "gruppa-butyirka_2026-11-20",
+      "url": "https://krs.kassir.ru/koncert/mbuk-abakanskiy-dvorets-molodeji/gruppa-butyirka_2026-11-20",
+      "rawTitle": "Бутырка (Абакан)",
+      "rawDateText": "20 ноября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3182,
+      "second_score": 0.2702,
+      "reasons": [
+        "name_ratio=0.455",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:bilbordyi-12",
+    "title": "Билборды",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-09-06T19:30:00+07:00",
+    "endDate": "2026-09-06T22:00:00+07:00",
+    "venue": "Закрытый клуб 64/6",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "bilbordyi-12",
+      "url": "https://krs.kassir.ru/koncert/bilbordyi-12",
+      "rawTitle": "Билборды",
+      "rawDateText": "6 сентября 19:30 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3372,
+      "second_score": 0.2513,
+      "reasons": [
+        "name_ratio=0.410",
+        "token_overlap=0.167",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:sergey-zavyalov-zelenogorsk_2026-10-08",
+    "title": "Сергей Завьялов (Зеленогорск)",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-08T19:00:00+07:00",
+    "endDate": "2026-10-08T21:30:00+07:00",
+    "venue": "Городской дворец культуры г. Зеленогорск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "sergey-zavyalov-zelenogorsk_2026-10-08",
+      "url": "https://krs.kassir.ru/koncert/gdk-gzelenogorsk/sergey-zavyalov-zelenogorsk_2026-10-08",
+      "rawTitle": "Сергей Завьялов (Зеленогорск)",
+      "rawDateText": "8 октября 19:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2658,
+      "second_score": 0.2638,
+      "reasons": [
+        "name_ratio=0.380",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:sergey-zavyalov-kansk_2026-10-09",
+    "title": "Сергей Завьялов (Канск)",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-09T19:00:00+07:00",
+    "endDate": "2026-10-09T21:30:00+07:00",
+    "venue": "ГДК (Канск)",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "sergey-zavyalov-kansk_2026-10-09",
+      "url": "https://krs.kassir.ru/koncert/gorodskoy-dom-kulturyi-g-kanska/sergey-zavyalov-kansk_2026-10-09",
+      "rawTitle": "Сергей Завьялов (Канск)",
+      "rawDateText": "9 октября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3294,
+      "second_score": 0.28,
+      "reasons": [
+        "name_ratio=0.471",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:vitya-matanga-4",
+    "title": "Витя Матанга",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-02T20:00:00+07:00",
+    "endDate": "2026-10-02T22:30:00+07:00",
+    "venue": "Клуб-галерея Эрмитаж",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "vitya-matanga-4",
+      "url": "https://krs.kassir.ru/koncert/vitya-matanga-4",
+      "rawTitle": "Витя Матанга",
+      "rawDateText": "2 октября 20:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:parad-zvezd-80-h-6",
+    "title": "Звезды эстрады 80-х",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-11-26T19:00:00+07:00",
+    "endDate": "2026-11-26T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "parad-zvezd-80-h-6",
+      "url": "https://krs.kassir.ru/koncert/parad-zvezd-80-h-6",
+      "rawTitle": "Звезды эстрады 80-х",
+      "rawDateText": "26 ноября 19:00 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:sovetskie-hityi",
+    "title": "Советские хиты",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-10T19:00:00+07:00",
+    "endDate": "2026-10-10T21:30:00+07:00",
+    "venue": "КЗ Новая Сцена",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "sovetskie-hityi",
+      "url": "https://krs.kassir.ru/koncert/sovetskie-hityi",
+      "rawTitle": "Советские хиты",
+      "rawDateText": "10 октября 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.3333,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:neoklassicheskiy-kontsert-kompozitora-denisa-stelmaha-4",
+    "title": "Неоклассический концерт композитора Дениса Стельмаха",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-01T19:00:00+07:00",
+    "endDate": "2026-05-01T21:30:00+07:00",
+    "venue": "Большой академический концертный зал Красноярского государственного института искусств",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "neoklassicheskiy-kontsert-kompozitora-denisa-stelmaha-4",
+      "url": "https://krs.kassir.ru/koncert/neoklassicheskiy-kontsert-kompozitora-denisa-stelmaha-4",
+      "rawTitle": "Неоклассический концерт композитора Дениса Стельмаха",
+      "rawDateText": "1 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3376,
+      "second_score": 0.3207,
+      "reasons": [
+        "name_ratio=0.454",
+        "token_overlap=0.000",
+        "type_boost=концерт:theatre",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:from-the-land-3",
+    "title": "From the land",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-06-12T20:00:00+07:00",
+    "endDate": "2026-06-12T22:30:00+07:00",
+    "venue": "Бар \"Дело не в тебе\"",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "from-the-land-3",
+      "url": "https://krs.kassir.ru/koncert/from-the-land-3",
+      "rawTitle": "From the land",
+      "rawDateText": "12 июня 20:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3418,
+      "second_score": 0.2853,
+      "reasons": [
+        "name_ratio=0.435",
+        "token_overlap=0.125",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:solnyiy-kontsert-miroslavyi-i-zlatyi-byikovyih-1",
+    "title": "Мирослава и Злата Быковы",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-10-12T19:00:00+07:00",
+    "endDate": "2026-10-12T21:30:00+07:00",
+    "venue": "ДК Комбайностроителей",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "solnyiy-kontsert-miroslavyi-i-zlatyi-byikovyih-1",
+      "url": "https://krs.kassir.ru/koncert/solnyiy-kontsert-miroslavyi-i-zlatyi-byikovyih-1",
+      "rawTitle": "Мирослава и Злата Быковы",
+      "rawDateText": "12 октября 19:00 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.317,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.453",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:blues-power-big-band_2026-05-28",
+    "title": "Blues Power Big Band",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-28T20:30:00+07:00",
+    "endDate": "2026-05-28T23:00:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "blues-power-big-band_2026-05-28",
+      "url": "https://krs.kassir.ru/koncert/kitchen-lab/blues-power-big-band_2026-05-28",
+      "rawTitle": "Blues Power Big Band",
+      "rawDateText": "28 мая 20:30 чт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:kvartirnik-so-zvezdoy-anna-kiselyova_2026-05-11",
+    "title": "Квартирник со звездой: Анна Киселёва",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-11T19:40:00+07:00",
+    "endDate": "2026-05-11T22:10:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kvartirnik-so-zvezdoy-anna-kiselyova_2026-05-11",
+      "url": "https://krs.kassir.ru/koncert/kitchen-lab/kvartirnik-so-zvezdoy-anna-kiselyova_2026-05-11",
+      "rawTitle": "Квартирник со звездой: Анна Киселёва",
+      "rawDateText": "11 мая 19:40 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:anna-grushevskaya-i-teatr-band",
+    "title": "Анна Грушевская и Театр Band",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-30T20:00:00+07:00",
+    "endDate": "2026-05-30T22:30:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "anna-grushevskaya-i-teatr-band",
+      "url": "https://krs.kassir.ru/koncert/anna-grushevskaya-i-teatr-band",
+      "rawTitle": "Анна Грушевская и Театр Band",
+      "rawDateText": "30 мая 20:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:akusticheskaya-kryisha-i-sergey-pugachev",
+    "title": "Акустическая крыша и Сергей Пугачев",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-09T19:00:00+07:00",
+    "endDate": "2026-05-09T21:30:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "akusticheskaya-kryisha-i-sergey-pugachev",
+      "url": "https://krs.kassir.ru/koncert/akusticheskaya-kryisha-i-sergey-pugachev",
+      "rawTitle": "Акустическая крыша и Сергей Пугачев",
+      "rawDateText": "9 мая 19:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:kvartirnik-so-zvezdoy-anna-grushevskaya_2026-05-25",
+    "title": "Квартирник со звездой: Анна Грушевская",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-25T19:40:00+07:00",
+    "endDate": "2026-05-25T22:10:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kvartirnik-so-zvezdoy-anna-grushevskaya_2026-05-25",
+      "url": "https://krs.kassir.ru/koncert/kitchen-lab/kvartirnik-so-zvezdoy-anna-grushevskaya_2026-05-25",
+      "rawTitle": "Квартирник со звездой: Анна Грушевская",
+      "rawDateText": "25 мая 19:40 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:blyuzovyiy-djem",
+    "title": "Блюзовый джем",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "blyuzovyiy-djem",
+      "url": "https://krs.kassir.ru/koncert/blyuzovyiy-djem",
+      "rawTitle": "Блюзовый джем",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:kvartirnik-so-zvezdoy-aleksandr-freydman_2026-05-18",
+    "title": "Квартирник со звездой: Александр Фрейдман",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-18T19:40:00+07:00",
+    "endDate": "2026-05-18T22:10:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kvartirnik-so-zvezdoy-aleksandr-freydman_2026-05-18",
+      "url": "https://krs.kassir.ru/koncert/kitchen-lab/kvartirnik-so-zvezdoy-aleksandr-freydman_2026-05-18",
+      "rawTitle": "Квартирник со звездой: Александр Фрейдман",
+      "rawDateText": "18 мая 19:40 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:kvartirnik-so-zvezdoy-aleksey-orlov_2026-05-04",
+    "title": "Квартирник со звездой: Алексей Орлов",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-04T19:40:00+07:00",
+    "endDate": "2026-05-04T22:10:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kvartirnik-so-zvezdoy-aleksey-orlov_2026-05-04",
+      "url": "https://krs.kassir.ru/koncert/kitchen-lab/kvartirnik-so-zvezdoy-aleksey-orlov_2026-05-04",
+      "rawTitle": "Квартирник со звездой: Алексей Орлов",
+      "rawDateText": "4 мая 19:40 пн",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:duet-pari-tet",
+    "title": "Дуэт Pari-tet",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-04-26T19:00:00+07:00",
+    "endDate": "2026-04-26T21:30:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "duet-pari-tet",
+      "url": "https://krs.kassir.ru/koncert/duet-pari-tet",
+      "rawTitle": "Дуэт Pari-tet",
+      "rawDateText": "26 апреля 19:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:koncert:las-guitarras-enamoradas",
+    "title": "Las Guitarras Enamoradas",
+    "category": "concert",
+    "tags": [
+      "music"
+    ],
+    "startDate": "2026-05-08T20:00:00+07:00",
+    "endDate": "2026-05-08T22:30:00+07:00",
+    "venue": "Kitchen Lab",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "las-guitarras-enamoradas",
+      "url": "https://krs.kassir.ru/koncert/las-guitarras-enamoradas",
+      "rawTitle": "Las Guitarras Enamoradas",
+      "rawDateText": "8 мая 20:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.2917,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:teremok--3",
+    "title": "Теремок",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-04-26T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "teremok--3",
+      "url": "https://krs.kassir.ru/teatr/teremok--3",
+      "rawTitle": "Теремок",
+      "rawDateText": "26 апреля",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:palata-biznes-klassa-16",
+    "title": "Палата бизнес-класса",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-04-28T19:00:00+07:00",
+    "endDate": "2026-04-28T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "palata-biznes-klassa-16",
+      "url": "https://krs.kassir.ru/teatr/palata-biznes-klassa-16",
+      "rawTitle": "Палата бизнес-класса",
+      "rawDateText": "28 апреля 19:00 вт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:semya-naprokat",
+    "title": "Семья напрокат",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-04-26T18:00:00+07:00",
+    "endDate": "2026-04-26T20:30:00+07:00",
+    "venue": "ДК Железнодорожников (Красноярск)",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "semya-naprokat",
+      "url": "https://krs.kassir.ru/teatr/semya-naprokat",
+      "rawTitle": "Семья напрокат",
+      "rawDateText": "26 апреля 18:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3161,
+      "second_score": 0.271,
+      "reasons": [
+        "name_ratio=0.452",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:lyubovnichki-abakan_2026-05-13",
+    "title": "Любовнички. Абакан",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-13T19:00:00+07:00",
+    "endDate": "2026-05-13T21:30:00+07:00",
+    "venue": "Абаканский Дворец Молодежи",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lyubovnichki-abakan_2026-05-13",
+      "url": "https://krs.kassir.ru/teatr/mbuk-abakanskiy-dvorets-molodeji/lyubovnichki-abakan_2026-05-13",
+      "rawTitle": "Любовнички. Абакан",
+      "rawDateText": "13 мая 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3182,
+      "second_score": 0.2702,
+      "reasons": [
+        "name_ratio=0.455",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:kruglyiy-god--1",
+    "title": "Круглый год",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-02T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kruglyiy-god--1",
+      "url": "https://krs.kassir.ru/teatr/kruglyiy-god--1",
+      "rawTitle": "Круглый год",
+      "rawDateText": "1 , 2 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:byivshie-31",
+    "title": "Бывшие",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-20T19:00:00+07:00",
+    "endDate": "2026-05-20T21:30:00+07:00",
+    "venue": "ДК Комбайностроителей",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "byivshie-31",
+      "url": "https://krs.kassir.ru/teatr/byivshie-31",
+      "rawTitle": "Бывшие",
+      "rawDateText": "20 мая 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.317,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.453",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:abahay-pahta_2026-06-03",
+    "title": "Абахай Пахта",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-06-03T19:00:00+07:00",
+    "endDate": "2026-06-03T21:30:00+07:00",
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "abahay-pahta_2026-06-03",
+      "url": "https://krs.kassir.ru/teatr/sibirskiy-gosudarstvennyiy-institut-iskusstv-im-dhvorostovskogo/abahay-pahta_2026-06-03",
+      "rawTitle": "Абахай Пахта",
+      "rawDateText": "3 июня 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3964,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:pechatnaya-grafika-tsvetnaya-linogravyura",
+    "title": "Печатная графика: цветная линогравюра",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "pechatnaya-grafika-tsvetnaya-linogravyura",
+      "url": "https://krs.kassir.ru/muzey/pechatnaya-grafika-tsvetnaya-linogravyura",
+      "rawTitle": "Печатная графика: цветная линогравюра",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:ekskursiya-po-muzeyu--istoriya-arhitektura-postoyannyie-vyistavki",
+    "title": "Экскурсия по музею — история, архитектура, постоянные выставки",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "ekskursiya-po-muzeyu--istoriya-arhitektura-postoyannyie-vyistavki",
+      "url": "https://krs.kassir.ru/muzey/ekskursiya-po-muzeyu--istoriya-arhitektura-postoyannyie-vyistavki",
+      "rawTitle": "Экскурсия по музею — история, архитектура, постоянные выставки",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:nochnaya-ekskursiya-s-vyihodom-na-kryishu",
+    "title": "Ночная экскурсия с выходом на крышу",
+    "category": "other",
+    "tags": [],
+    "startDate": "2026-05-23T20:00:00+07:00",
+    "endDate": "2026-05-23T22:30:00+07:00",
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "nochnaya-ekskursiya-s-vyihodom-na-kryishu",
+      "url": "https://krs.kassir.ru/muzey/nochnaya-ekskursiya-s-vyihodom-na-kryishu",
+      "rawTitle": "Ночная экскурсия с выходом на крышу",
+      "rawDateText": "23 мая 20:00 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:nochnaya-ekskursiya-v-2000",
+    "title": "Ночная экскурсия",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "nochnaya-ekskursiya-v-2000",
+      "url": "https://krs.kassir.ru/muzey/nochnaya-ekskursiya-v-2000",
+      "rawTitle": "Ночная экскурсия",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:shou-azot--master-klass-svetlyachok",
+    "title": "Шоу Азот + мастер-класс \"Светлячок\"",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "ТРЦ Планета.",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "shou-azot--master-klass-svetlyachok",
+      "url": "https://krs.kassir.ru/detyam/shou-azot--master-klass-svetlyachok",
+      "rawTitle": "Шоу Азот + мастер-класс \"Светлячок\"",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3652,
+      "second_score": 0.3111,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:fotografiya-poisk-vizualnogo-yazyika",
+    "title": "Фотография: поиск визуального языка",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "fotografiya-poisk-vizualnogo-yazyika",
+      "url": "https://krs.kassir.ru/muzey/fotografiya-poisk-vizualnogo-yazyika",
+      "rawTitle": "Фотография: поиск визуального языка",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:teoriya-sovremennogo-iskusstva-obrazovatelnyiy-kurs",
+    "title": "Теория современного искусства. Образовательный курс",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "teoriya-sovremennogo-iskusstva-obrazovatelnyiy-kurs",
+      "url": "https://krs.kassir.ru/muzey/teoriya-sovremennogo-iskusstva-obrazovatelnyiy-kurs",
+      "rawTitle": "Теория современного искусства. Образовательный курс",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:masterskaya-trogatelnyih-del-tsikl-zanyatiy",
+    "title": "Мастерская трогательных дел. Цикл занятий",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "masterskaya-trogatelnyih-del-tsikl-zanyatiy",
+      "url": "https://krs.kassir.ru/muzey/masterskaya-trogatelnyih-del-tsikl-zanyatiy",
+      "rawTitle": "Мастерская трогательных дел. Цикл занятий",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:tsikl-kinoobsujdeniy-aziatskoe-kino",
+    "title": "Цикл кинообсуждений: Азиатское кино",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "tsikl-kinoobsujdeniy-aziatskoe-kino",
+      "url": "https://krs.kassir.ru/muzey/tsikl-kinoobsujdeniy-aziatskoe-kino",
+      "rawTitle": "Цикл кинообсуждений: Азиатское кино",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:studiya-performativnyih-praktik",
+    "title": "Студия перформативных практик",
+    "category": "other",
+    "tags": [],
+    "startDate": "2026-05-10T15:30:00+07:00",
+    "endDate": "2026-05-10T18:00:00+07:00",
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "studiya-performativnyih-praktik",
+      "url": "https://krs.kassir.ru/muzey/studiya-performativnyih-praktik",
+      "rawTitle": "Студия перформативных практик",
+      "rawDateText": "10 мая 15:30 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:dreyf-progulka-po-vyistavke-budut-znaki",
+    "title": "Дрейф-прогулка по выставке \"Будут знаки\"",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "dreyf-progulka-po-vyistavke-budut-znaki",
+      "url": "https://krs.kassir.ru/muzey/dreyf-progulka-po-vyistavke-budut-znaki",
+      "rawTitle": "Дрейф-прогулка по выставке \"Будут знаки\"",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:arhitekturnaya-ekskursiya",
+    "title": "Архитектурная экскурсия",
+    "category": "other",
+    "tags": [],
+    "startDate": "2026-04-26T13:00:00+07:00",
+    "endDate": "2026-04-26T15:30:00+07:00",
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "arhitekturnaya-ekskursiya",
+      "url": "https://krs.kassir.ru/muzey/arhitekturnaya-ekskursiya",
+      "rawTitle": "Архитектурная экскурсия",
+      "rawDateText": "26 апреля 13:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:muzey:razgovornyiy-klub-angliyskogo",
+    "title": "Разговорный клуб английского",
+    "category": "other",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Площадь Мира",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "razgovornyiy-klub-angliyskogo",
+      "url": "https://krs.kassir.ru/muzey/razgovornyiy-klub-angliyskogo",
+      "rawTitle": "Разговорный клуб английского",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5679,
+      "second_score": 0.425,
+      "reasons": [
+        "name_ratio=0.483",
+        "token_overlap=0.500",
+        "venue_tokens_subset",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:est-li-jizn-v-offline",
+    "title": "Есть ли жизнь в офлайн?",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-13T19:00:00+07:00",
+    "endDate": "2026-05-13T21:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "est-li-jizn-v-offline",
+      "url": "https://krs.kassir.ru/teatr/est-li-jizn-v-offline",
+      "rawTitle": "Есть ли жизнь в офлайн?",
+      "rawDateText": "13 мая 19:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:sobaka-kotoraya-ne-umela-layat",
+    "title": "Собака, которая не умела лаять",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-04-24T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "sobaka-kotoraya-ne-umela-layat",
+      "url": "https://krs.kassir.ru/detyam/sobaka-kotoraya-ne-umela-layat",
+      "rawTitle": "Собака, которая не умела лаять",
+      "rawDateText": "24 – 25 апреля",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:kotyonok-po-imeni-gav-2",
+    "title": "Котёнок по имени Гав",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-05-23T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kotyonok-po-imeni-gav-2",
+      "url": "https://krs.kassir.ru/detyam/kotyonok-po-imeni-gav-2",
+      "rawTitle": "Котёнок по имени Гав",
+      "rawDateText": "23 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:vovka-v-strane-nevyiuchennyih-urokov",
+    "title": "Вовка в стране невыученных уроков",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-05-10T12:00:00+07:00",
+    "endDate": "2026-05-10T14:30:00+07:00",
+    "venue": "Дворец культуры и спорта Металлургов",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "vovka-v-strane-nevyiuchennyih-urokov",
+      "url": "https://krs.kassir.ru/detyam/vovka-v-strane-nevyiuchennyih-urokov",
+      "rawTitle": "Вовка в стране невыученных уроков",
+      "rawDateText": "10 мая 12:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.261,
+      "second_score": 0.252,
+      "reasons": [
+        "name_ratio=0.373",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:malenkiy-prints",
+    "title": "Маленький принц",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-05-17T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "malenkiy-prints",
+      "url": "https://krs.kassir.ru/detyam/malenkiy-prints",
+      "rawTitle": "Маленький принц",
+      "rawDateText": "17 – 19 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:shou:tsirk-graf-orlov",
+    "title": "Цирк Граф Орлов",
+    "category": "show",
+    "tags": [
+      "show"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Парковка ТЦ Планета",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "tsirk-graf-orlov",
+      "url": "https://krs.kassir.ru/shou/tsirk-graf-orlov",
+      "rawTitle": "Цирк Граф Орлов",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3161,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.452",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:predstavlenie-svetovyih-kukol-teatr-nikolaya-zyikova-moskva---abakan_2026-04-20",
+    "title": "Представление световых кукол. Театр Николая Зыкова (Абакан)",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-09-25T19:00:00+07:00",
+    "endDate": "2026-09-25T21:30:00+07:00",
+    "venue": "ДК Железнодорожников (Абакан)",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "predstavlenie-svetovyih-kukol-teatr-nikolaya-zyikova-moskva---abakan_2026-04-20",
+      "url": "https://krs.kassir.ru/teatr/dvorets-kulturyi-jeleznodorojnikov-gabakan/predstavlenie-svetovyih-kukol-teatr-nikolaya-zyikova-moskva---abakan_2026-04-20",
+      "rawTitle": "Представление световых кукол. Театр Николая Зыкова (Абакан)",
+      "rawDateText": "25 сентября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3411,
+      "second_score": 0.3172,
+      "reasons": [
+        "name_ratio=0.316",
+        "token_overlap=0.000",
+        "type_boost=театр:theatre",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:shou-fokusov-udivitelnoe-ryadom",
+    "title": "Шоу фокусов. Удивительное рядом",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-04-25T17:30:00+07:00",
+    "endDate": "2026-04-25T20:00:00+07:00",
+    "venue": "ТРК КомсоМолл",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "shou-fokusov-udivitelnoe-ryadom",
+      "url": "https://krs.kassir.ru/detyam/shou-fokusov-udivitelnoe-ryadom",
+      "rawTitle": "Шоу фокусов. Удивительное рядом",
+      "rawDateText": "25 апреля 17:30 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3294,
+      "second_score": 0.3182,
+      "reasons": [
+        "name_ratio=0.471",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:detskaya-nauchnaya-ploschadka",
+    "title": "Детская научная площадка",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-04-23T00:00:00+07:00",
+    "endDate": null,
+    "venue": "ТРЦ Планета.",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "detskaya-nauchnaya-ploschadka",
+      "url": "https://krs.kassir.ru/detyam/detskaya-nauchnaya-ploschadka",
+      "rawTitle": "Детская научная площадка",
+      "rawDateText": "23 – 30 апреля",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3652,
+      "second_score": 0.3111,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:elektroshou-i-master-klass-otkryitka-s-podsvetkoy",
+    "title": "Электрошоу и Мастер-класс \"Открытка с подсветкой\"",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "ТРЦ Планета.",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "elektroshou-i-master-klass-otkryitka-s-podsvetkoy",
+      "url": "https://krs.kassir.ru/detyam/elektroshou-i-master-klass-otkryitka-s-podsvetkoy",
+      "rawTitle": "Электрошоу и Мастер-класс \"Открытка с подсветкой\"",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3652,
+      "second_score": 0.3111,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:mtsyiri-ktk",
+    "title": "Мцыри",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-05-12T19:00:00+07:00",
+    "endDate": "2026-05-12T21:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "mtsyiri-ktk",
+      "url": "https://krs.kassir.ru/detyam/mtsyiri-ktk",
+      "rawTitle": "Мцыри",
+      "rawDateText": "12 мая 19:00 вт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:chuk-i-gek--7",
+    "title": "Чук и Гек",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-09T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "chuk-i-gek--7",
+      "url": "https://krs.kassir.ru/teatr/chuk-i-gek--7",
+      "rawTitle": "Чук и Гек",
+      "rawDateText": "9 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:zolotoy-tsyiplenok--4",
+    "title": "Золотой цыпленок",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-05-10T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "zolotoy-tsyiplenok--4",
+      "url": "https://krs.kassir.ru/detyam/zolotoy-tsyiplenok--4",
+      "rawTitle": "Золотой цыпленок",
+      "rawDateText": "10 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:kolyibelnaya-dlya-myishonka--3",
+    "title": "Колыбельная для мышонка",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-24T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kolyibelnaya-dlya-myishonka--3",
+      "url": "https://krs.kassir.ru/teatr/kolyibelnaya-dlya-myishonka--3",
+      "rawTitle": "Колыбельная для мышонка",
+      "rawDateText": "24 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:vorobishko-2",
+    "title": "Воробьишко",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-05-05T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "vorobishko-2",
+      "url": "https://krs.kassir.ru/detyam/vorobishko-2",
+      "rawTitle": "Воробьишко",
+      "rawDateText": "5 – 20 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:ekskursiya-professionalnyiy-teatr-kukol--16",
+    "title": "Профессиональный театр кукол. Экскурсия",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": "2026-05-14T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "ekskursiya-professionalnyiy-teatr-kukol--16",
+      "url": "https://krs.kassir.ru/detyam/ekskursiya-professionalnyiy-teatr-kukol--16",
+      "rawTitle": "Профессиональный театр кукол. Экскурсия",
+      "rawDateText": "14 – 28 мая",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.845,
+      "second_score": 0.84,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "type_boost=театр:theatre",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:detyam:aktiviti-park-semeynogo-otdyiha-grek-land",
+    "title": "Активити-парк семейного отдыха Grek Land",
+    "category": "kids",
+    "tags": [
+      "kids"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Grek Land",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "aktiviti-park-semeynogo-otdyiha-grek-land",
+      "url": "https://krs.kassir.ru/detyam/aktiviti-park-semeynogo-otdyiha-grek-land",
+      "rawTitle": "Активити-парк семейного отдыха Grek Land",
+      "rawDateText": "март – декабрь",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3043,
+      "second_score": 0.2947,
+      "reasons": [
+        "name_ratio=0.435",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:shou:nadya-djabrailova-19",
+    "title": "Надя Джабраилова. Stand Up",
+    "category": "show",
+    "tags": [
+      "show"
+    ],
+    "startDate": "2026-05-15T19:00:00+07:00",
+    "endDate": "2026-05-15T21:30:00+07:00",
+    "venue": "ДК Комбайностроителей",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "nadya-djabrailova-19",
+      "url": "https://krs.kassir.ru/shou/nadya-djabrailova-19",
+      "rawTitle": "Надя Джабраилова. Stand Up",
+      "rawDateText": "15 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.317,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.453",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:shou:gromkiy-vopros-komandnyiy-turnir-1",
+    "title": "Громкий Вопрос. Командный турнир",
+    "category": "show",
+    "tags": [
+      "show"
+    ],
+    "startDate": "2026-04-25T17:30:00+07:00",
+    "endDate": "2026-04-25T20:00:00+07:00",
+    "venue": "Лаундж-бар \"Цоколь\"",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "gromkiy-vopros-komandnyiy-turnir-1",
+      "url": "https://krs.kassir.ru/shou/gromkiy-vopros-komandnyiy-turnir-1",
+      "rawTitle": "Громкий Вопрос. Командный турнир",
+      "rawDateText": "25 апреля 17:30 сб",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3482,
+      "second_score": 0.3231,
+      "reasons": [
+        "name_ratio=0.412",
+        "token_overlap=0.200",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:obrazovanie:osnovyi-masterstva-veduschego-master-klass",
+    "title": "Основы мастерства ведущего. Мастер-класс",
+    "category": "education",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Эвенкийский районный культурно-досуговый центр",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "osnovyi-masterstva-veduschego-master-klass",
+      "url": "https://krs.kassir.ru/obrazovanie/osnovyi-masterstva-veduschego-master-klass",
+      "rawTitle": "Основы мастерства ведущего. Мастер-класс",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3182,
+      "second_score": 0.2947,
+      "reasons": [
+        "name_ratio=0.455",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:obrazovanie:yuvelirnoe-svidanie",
+    "title": "Ювелирное свидание",
+    "category": "education",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Дом Художника – Easy Draw",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "yuvelirnoe-svidanie",
+      "url": "https://krs.kassir.ru/obrazovanie/yuvelirnoe-svidanie",
+      "rawTitle": "Ювелирное свидание",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3145,
+      "second_score": 0.2858,
+      "reasons": [
+        "name_ratio=0.364",
+        "token_overlap=0.200",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:obrazovanie:viktoriya-makarskaya---babsovet-1",
+    "title": "Виктория Макарская - БабСовет",
+    "category": "education",
+    "tags": [],
+    "startDate": "2026-06-07T16:00:00+07:00",
+    "endDate": "2026-06-07T18:30:00+07:00",
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "viktoriya-makarskaya---babsovet-1",
+      "url": "https://krs.kassir.ru/obrazovanie/viktoriya-makarskaya---babsovet-1",
+      "rawTitle": "Виктория Макарская - БабСовет",
+      "rawDateText": "7 июня 16:00 вс",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3964,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:obrazovanie:shedevryi-iz-samozatverdevayuschey-glinyi",
+    "title": "Шедевры из самозатвердевающей глины",
+    "category": "education",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Дом Художника – Easy Draw",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "shedevryi-iz-samozatverdevayuschey-glinyi",
+      "url": "https://krs.kassir.ru/obrazovanie/shedevryi-iz-samozatverdevayuschey-glinyi",
+      "rawTitle": "Шедевры из самозатвердевающей глины",
+      "rawDateText": "апрель – июнь",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3145,
+      "second_score": 0.2858,
+      "reasons": [
+        "name_ratio=0.364",
+        "token_overlap=0.200",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:obrazovanie:alfa-konfa-krasnoyarsk",
+    "title": "Альфа-Конфа",
+    "category": "education",
+    "tags": [],
+    "startDate": "2026-06-24T11:00:00+07:00",
+    "endDate": "2026-06-24T13:30:00+07:00",
+    "venue": "Дворец спорта им. Ивана Ярыгина",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "alfa-konfa-krasnoyarsk",
+      "url": "https://krs.kassir.ru/obrazovanie/alfa-konfa-krasnoyarsk",
+      "rawTitle": "Альфа-Конфа",
+      "rawDateText": "24 июня 11:00 ср",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.28,
+      "second_score": 0.2716,
+      "reasons": [
+        "name_ratio=0.400",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:obrazovanie:davay-poigraem",
+    "title": "Давай поиграем",
+    "category": "education",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Фридом",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "davay-poigraem",
+      "url": "https://krs.kassir.ru/obrazovanie/davay-poigraem",
+      "rawTitle": "Давай поиграем",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3231,
+      "second_score": 0.3,
+      "reasons": [
+        "name_ratio=0.462",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:obrazovanie:teplo-tvoih-ruk-avtorskiy-magnit",
+    "title": "Тепло твоих рук. Авторский магнит",
+    "category": "education",
+    "tags": [],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Дом Художника – Easy Draw",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "teplo-tvoih-ruk-avtorskiy-magnit",
+      "url": "https://krs.kassir.ru/obrazovanie/teplo-tvoih-ruk-avtorskiy-magnit",
+      "rawTitle": "Тепло твоих рук. Авторский магнит",
+      "rawDateText": "апрель – июнь",
+      "scrapedAt": "2026-04-23T08:01:45Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3145,
+      "second_score": 0.2858,
+      "reasons": [
+        "name_ratio=0.364",
+        "token_overlap=0.200",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:lyubov-i-golubi_2026-05-04",
+    "title": "Любовь и голуби",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-04T19:00:00+07:00",
+    "endDate": "2026-05-04T21:30:00+07:00",
+    "venue": "ДК ЛДК №1 г. Лесосибирск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lyubov-i-golubi_2026-05-04",
+      "url": "https://krs.kassir.ru/teatr/dk-ldk-1-g-lesosibirsk/lyubov-i-golubi_2026-05-04",
+      "rawTitle": "Любовь и голуби",
+      "rawDateText": "4 мая 19:00 пн",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2593,
+      "second_score": 0.2406,
+      "reasons": [
+        "name_ratio=0.370",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:bremenskie-muzyikantyi",
+    "title": "Бременские музыканты",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-02T12:00:00+07:00",
+    "endDate": "2026-05-02T14:30:00+07:00",
+    "venue": "Дворец культуры и спорта Металлургов",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "bremenskie-muzyikantyi",
+      "url": "https://krs.kassir.ru/teatr/bremenskie-muzyikantyi",
+      "rawTitle": "Бременские музыканты",
+      "rawDateText": "2 мая 12:00 сб",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.261,
+      "second_score": 0.252,
+      "reasons": [
+        "name_ratio=0.373",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:lyubovnichki-krasnoyarsk_2026-05-15",
+    "title": "Любовнички. Красноярск",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-15T19:00:00+07:00",
+    "endDate": "2026-05-15T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lyubovnichki-krasnoyarsk_2026-05-15",
+      "url": "https://krs.kassir.ru/teatr/kz-grand-holl-sibir/lyubovnichki-krasnoyarsk_2026-05-15",
+      "rawTitle": "Любовнички. Красноярск",
+      "rawDateText": "15 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:oy-ryabina-kudryavaya",
+    "title": "Ой, рябина кудрявая",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "oy-ryabina-kudryavaya",
+      "url": "https://krs.kassir.ru/teatr/oy-ryabina-kudryavaya",
+      "rawTitle": "Ой, рябина кудрявая",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:lyubovnichki-jeleznogorsk_2026-05-16",
+    "title": "Любовнички. Железногорск",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-16T19:00:00+07:00",
+    "endDate": "2026-05-16T21:30:00+07:00",
+    "venue": "Дворец культуры (Железногорск)",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lyubovnichki-jeleznogorsk_2026-05-16",
+      "url": "https://krs.kassir.ru/teatr/mbuk-dvorets-kulturyi-g-jeleznogorsk/lyubovnichki-jeleznogorsk_2026-05-16",
+      "rawTitle": "Любовнички. Железногорск",
+      "rawDateText": "16 мая 19:00 сб",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3,
+      "second_score": 0.239,
+      "reasons": [
+        "name_ratio=0.429",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:iskusstvo-kitayskih-kukolnikov-tk-kitay",
+    "title": "Искусство китайских кукольников (ТК, Китай)",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-31T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "iskusstvo-kitayskih-kukolnikov-tk-kitay",
+      "url": "https://krs.kassir.ru/teatr/iskusstvo-kitayskih-kukolnikov-tk-kitay",
+      "rawTitle": "Искусство китайских кукольников (ТК, Китай)",
+      "rawDateText": "31 мая",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4275,
+      "second_score": 0.3964,
+      "reasons": [
+        "name_ratio=0.549",
+        "token_overlap=0.143",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:nochnoy-gost-kansk_2026-06-10",
+    "title": "Ночной гость (Канск)",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-06-10T19:00:00+07:00",
+    "endDate": "2026-06-10T21:30:00+07:00",
+    "venue": "ГДК (Канск)",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "nochnoy-gost-kansk_2026-06-10",
+      "url": "https://krs.kassir.ru/teatr/gorodskoy-dom-kulturyi-g-kanska/nochnoy-gost-kansk_2026-06-10",
+      "rawTitle": "Ночной гость (Канск)",
+      "rawDateText": "10 июня 19:00 ср",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3294,
+      "second_score": 0.28,
+      "reasons": [
+        "name_ratio=0.471",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:don-kihot-kurganskiy-tk",
+    "title": "Дон Кихот (Курганский ТК)",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-06-03T15:00:00+07:00",
+    "endDate": "2026-06-03T17:30:00+07:00",
+    "venue": "Дворец Труда и Согласия имени А.Кузнецова",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "don-kihot-kurganskiy-tk",
+      "url": "https://krs.kassir.ru/teatr/don-kihot-kurganskiy-tk",
+      "rawTitle": "Дон Кихот (Курганский ТК)",
+      "rawDateText": "3 июня 15:00 ср",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3197,
+      "second_score": 0.2989,
+      "reasons": [
+        "name_ratio=0.414",
+        "token_overlap=0.100",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:nochnoy-gost-achinsk_2026-06-09",
+    "title": "Ночной гость (Ачинск)",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-06-09T19:00:00+07:00",
+    "endDate": "2026-06-09T21:30:00+07:00",
+    "venue": "Городской ДК г. Ачинск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "nochnoy-gost-achinsk_2026-06-09",
+      "url": "https://krs.kassir.ru/teatr/zal-gordk-gachinsk/nochnoy-gost-achinsk_2026-06-09",
+      "rawTitle": "Ночной гость (Ачинск)",
+      "rawDateText": "9 июня 19:00 вт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.3111,
+      "second_score": 0.2947,
+      "reasons": [
+        "name_ratio=0.444",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:master-i-margarita_2026-10-23",
+    "title": "Мастер и Маргарита",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-10-23T19:00:00+07:00",
+    "endDate": "2026-10-23T21:30:00+07:00",
+    "venue": "КЗ Новая Сцена",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "master-i-margarita_2026-10-23",
+      "url": "https://krs.kassir.ru/teatr/novaya-stsena/master-i-margarita_2026-10-23",
+      "rawTitle": "Мастер и Маргарита",
+      "rawDateText": "23 октября 19:00 пт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.35,
+      "second_score": 0.3333,
+      "reasons": [
+        "name_ratio=0.500",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:dvoe-na-kachelyah-spektakl_2026-08-20",
+    "title": "Двое на качелях. Спектакль",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-08-20T19:00:00+07:00",
+    "endDate": "2026-08-20T21:30:00+07:00",
+    "venue": "Гранд-холл Сибирь",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "dvoe-na-kachelyah-spektakl_2026-08-20",
+      "url": "https://krs.kassir.ru/teatr/kz-grand-holl-sibir/dvoe-na-kachelyah-spektakl_2026-08-20",
+      "rawTitle": "Двое на качелях. Спектакль",
+      "rawDateText": "20 августа 19:00 чт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.4652,
+      "second_score": 0.4017,
+      "reasons": [
+        "name_ratio=0.522",
+        "token_overlap=0.333",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:zvuki-moey-rodinyi-tk-iran",
+    "title": "Звуки моей Родины (ТК, Иран)",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-31T14:00:00+07:00",
+    "endDate": "2026-05-31T16:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "zvuki-moey-rodinyi-tk-iran",
+      "url": "https://krs.kassir.ru/teatr/zvuki-moey-rodinyi-tk-iran",
+      "rawTitle": "Звуки моей Родины (ТК, Иран)",
+      "rawDateText": "31 мая 14:00 вс",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:kokteyl-figaro",
+    "title": "Коктейль Фигаро",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-03T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "kokteyl-figaro",
+      "url": "https://krs.kassir.ru/teatr/kokteyl-figaro",
+      "rawTitle": "Коктейль Фигаро",
+      "rawDateText": "3 – 10 мая",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:son-smeshnogo-cheloveka-6",
+    "title": "Сон смешного человека",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-26T19:00:00+07:00",
+    "endDate": "2026-05-26T21:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "son-smeshnogo-cheloveka-6",
+      "url": "https://krs.kassir.ru/teatr/son-smeshnogo-cheloveka-6",
+      "rawTitle": "Сон смешного человека",
+      "rawDateText": "26 мая 19:00 вт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:krotkaya-14",
+    "title": "Кроткая",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "krotkaya-14",
+      "url": "https://krs.kassir.ru/teatr/krotkaya-14",
+      "rawTitle": "Кроткая",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:legenda-o-velikom-inkvizitore",
+    "title": "Легенда о Великом инквизиторе",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-27T19:00:00+07:00",
+    "endDate": "2026-05-27T21:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "legenda-o-velikom-inkvizitore",
+      "url": "https://krs.kassir.ru/teatr/legenda-o-velikom-inkvizitore",
+      "rawTitle": "Легенда о Великом инквизиторе",
+      "rawDateText": "27 мая 19:00 ср",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:dubrovskiy-13",
+    "title": "Дубровский",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-04-30T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "dubrovskiy-13",
+      "url": "https://krs.kassir.ru/teatr/dubrovskiy-13",
+      "rawTitle": "Дубровский",
+      "rawDateText": "29 , 30 апреля",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:egorkina-byilina-avanpremera",
+    "title": "Егоркина былина",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-15T19:00:00+07:00",
+    "endDate": "2026-05-15T21:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "egorkina-byilina-avanpremera",
+      "url": "https://krs.kassir.ru/teatr/egorkina-byilina-avanpremera",
+      "rawTitle": "Егоркина былина",
+      "rawDateText": "15 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:harms--18",
+    "title": "Хармс",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-22T19:00:00+07:00",
+    "endDate": "2026-05-22T21:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "harms--18",
+      "url": "https://krs.kassir.ru/teatr/harms--18",
+      "rawTitle": "Хармс",
+      "rawDateText": "22 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:spektakl-sem-ya",
+    "title": "Спектакль \"Семь Я\"",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-23T18:00:00+07:00",
+    "endDate": "2026-05-23T20:30:00+07:00",
+    "venue": "Дом науки и техники",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "spektakl-sem-ya",
+      "url": "https://krs.kassir.ru/teatr/spektakl-sem-ya",
+      "rawTitle": "Спектакль \"Семь Я\"",
+      "rawDateText": "23 мая 18:00 сб",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.5662,
+      "second_score": 0.423,
+      "reasons": [
+        "name_ratio=0.552",
+        "token_overlap=0.200",
+        "type_boost=спектакл:theatre",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:povest-o-nastoyaschem-cheloveke-1",
+    "title": "Повесть о настоящем человеке",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-08T19:00:00+07:00",
+    "endDate": "2026-05-08T21:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "povest-o-nastoyaschem-cheloveke-1",
+      "url": "https://krs.kassir.ru/teatr/povest-o-nastoyaschem-cheloveke-1",
+      "rawTitle": "Повесть о настоящем человеке",
+      "rawDateText": "8 мая 19:00 пт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:moy-dom",
+    "title": "Мой дом",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-08T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "moy-dom",
+      "url": "https://krs.kassir.ru/teatr/moy-dom",
+      "rawTitle": "Мой дом",
+      "rawDateText": "7 , 8 мая",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:lesnoe-pianino",
+    "title": "Лесное пианино",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "lesnoe-pianino",
+      "url": "https://krs.kassir.ru/teatr/lesnoe-pianino",
+      "rawTitle": "Лесное пианино",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:mashenka-i-medved--4",
+    "title": "Машенька и Медведь",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-16T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "mashenka-i-medved--4",
+      "url": "https://krs.kassir.ru/teatr/mashenka-i-medved--4",
+      "rawTitle": "Машенька и Медведь",
+      "rawDateText": "16 мая",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:den-i-noch",
+    "title": "День и ночь",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-10T00:00:00+07:00",
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "den-i-noch",
+      "url": "https://krs.kassir.ru/teatr/den-i-noch",
+      "rawTitle": "День и ночь",
+      "rawDateText": "9 , 10 мая",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:moy-volshebnyiy-nosok",
+    "title": "Мой волшебный носок",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": null,
+    "endDate": null,
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "moy-volshebnyiy-nosok",
+      "url": "https://krs.kassir.ru/teatr/moy-volshebnyiy-nosok",
+      "rawTitle": "Мой волшебный носок",
+      "rawDateText": "апрель – май",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.725,
+      "second_score": 0.72,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:pozyivnoy-tishina-spektakl-chitka",
+    "title": "Позывной Тишина. Спектакль-читка",
+    "category": "theatre",
+    "tags": [
+      "theatre"
+    ],
+    "startDate": "2026-05-07T19:00:00+07:00",
+    "endDate": "2026-05-07T21:30:00+07:00",
+    "venue": "Красноярский театр кукол",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "pozyivnoy-tishina-spektakl-chitka",
+      "url": "https://krs.kassir.ru/teatr/pozyivnoy-tishina-spektakl-chitka",
+      "rawTitle": "Позывной Тишина. Спектакль-читка",
+      "rawDateText": "7 мая 19:00 чт",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.845,
+      "second_score": 0.84,
+      "reasons": [
+        "name_ratio=0.750",
+        "token_overlap=0.400",
+        "type_boost=спектакл:theatre",
+        "theatre_hint",
+        "ambiguous_top_match"
+      ],
+      "place": null
+    }
+  },
+  {
+    "id": "kassir:krs:teatr:zverskiy-detektiv_2026-05-04",
+    "title": "Зверский детектив",
+    "category": "theatre",
+    "tags": [
+      "kids",
+      "theatre"
+    ],
+    "startDate": "2026-05-04T13:00:00+07:00",
+    "endDate": "2026-05-04T15:30:00+07:00",
+    "venue": "ДК ЛДК №1 г. Лесосибирск",
+    "sourceMeta": {
+      "provider": "kassir",
+      "providerEventId": "zverskiy-detektiv_2026-05-04",
+      "url": "https://krs.kassir.ru/teatr/dk-ldk-1-g-lesosibirsk/zverskiy-detektiv_2026-05-04",
+      "rawTitle": "Зверский детектив",
+      "rawDateText": "4 мая 13:00 пн",
+      "scrapedAt": "2026-04-23T08:07:39Z"
+    },
+    "match": {
+      "status": "unmatched",
+      "score": 0.2593,
+      "second_score": 0.2406,
+      "reasons": [
+        "name_ratio=0.370",
+        "token_overlap=0.000",
+        "below_threshold"
+      ],
+      "place": null
+    }
+  }
+]
