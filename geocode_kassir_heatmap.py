@@ -12,6 +12,8 @@ OUTPUT = ROOT / 'output'
 EVENTS_PATH = OUTPUT / 'events_kassir_unique_by_id.json'
 OUT_EVENTS = OUTPUT / 'events_kassir_krasnoyarsk_heatmap.json'
 OUT_VENUES = OUTPUT / 'venues_kassir_krasnoyarsk_heatmap.json'
+OUT_EVENTS_GEOJSON = OUTPUT / 'kepler_kassir_krasnoyarsk_events.geojson'
+OUT_VENUES_GEOJSON = OUTPUT / 'kepler_kassir_krasnoyarsk_venues.geojson'
 OUT_SUMMARY = OUTPUT / 'events_kassir_krasnoyarsk_heatmap_summary.json'
 CACHE_PATH = OUTPUT / 'nominatim_search_cache.json'
 USER_AGENT = 'kassir-krasnoyarsk-heatmap/1.0 (research script)'
@@ -188,6 +190,63 @@ def save_json(path: Path, payload: Any) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
 
 
+def build_geojson(features: list[dict[str, Any]]) -> dict[str, Any]:
+    return {
+        'type': 'FeatureCollection',
+        'features': features,
+    }
+
+
+def build_event_feature(row: dict[str, Any]) -> dict[str, Any] | None:
+    lat = row.get('lat')
+    lon = row.get('lon')
+    if lat is None or lon is None:
+        return None
+    return {
+        'type': 'Feature',
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [lon, lat],
+        },
+        'properties': {
+            'id': row.get('id'),
+            'title': row.get('title'),
+            'category': row.get('category'),
+            'tags': ', '.join(row.get('tags') or []),
+            'venue': row.get('venue'),
+            'resolvedVenue': row.get('resolvedVenue'),
+            'startDate': row.get('startDate'),
+            'endDate': row.get('endDate'),
+            'sourceUrl': row.get('sourceUrl'),
+        },
+    }
+
+
+def build_venue_feature(row: dict[str, Any]) -> dict[str, Any] | None:
+    lat = row.get('lat')
+    lon = row.get('lon')
+    if lat is None or lon is None:
+        return None
+    return {
+        'type': 'Feature',
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [lon, lat],
+        },
+        'properties': {
+            'venue': row.get('venue'),
+            'resolvedVenue': row.get('resolvedVenue'),
+            'eventCount': row.get('eventCount'),
+            'resolvedQuery': row.get('resolvedQuery'),
+            'resolvedDisplayName': row.get('resolvedDisplayName'),
+            'osm_type': row.get('osm_type'),
+            'osm_id': row.get('osm_id'),
+            'osm_class': row.get('osm_class'),
+            'osm_place_type': row.get('osm_place_type'),
+        },
+    }
+
+
 def is_krasnoyarsk_result(item: dict[str, Any]) -> bool:
     address = item.get('address') or {}
     display = (item.get('display_name') or '').lower()
@@ -330,7 +389,10 @@ def main() -> int:
             'osm_place_type': point.get('type') if point else None,
         })
 
-    geocoded_events = sum(1 for row in heatmap_events if row['lat'] is not None and row['lon'] is not None)
+    event_features = [feature for row in heatmap_events if (feature := build_event_feature(row)) is not None]
+    venue_features = [feature for row in venue_rows if (feature := build_venue_feature(row)) is not None]
+    geocoded_events = len(event_features)
+    geocoded_venues = len(venue_features)
     summary = {
         'total_events_source': len(events),
         'total_events_krasnoyarsk': len(local_events),
@@ -339,7 +401,10 @@ def main() -> int:
         'resolved_venues': len(resolved),
         'unresolved_venues': unresolved,
         'geocoded_events': geocoded_events,
+        'geocoded_venues': geocoded_venues,
         'geocoded_ratio': round(geocoded_events / len(local_events), 4) if local_events else 0.0,
+        'kepler_events_geojson': str(OUT_EVENTS_GEOJSON),
+        'kepler_venues_geojson': str(OUT_VENUES_GEOJSON),
         'top_venues': [
             {'venue': venue, 'count': count}
             for venue, count in venue_counts.most_common(20)
@@ -349,6 +414,8 @@ def main() -> int:
     save_json(CACHE_PATH, cache)
     save_json(OUT_EVENTS, heatmap_events)
     save_json(OUT_VENUES, venue_rows)
+    save_json(OUT_EVENTS_GEOJSON, build_geojson(event_features))
+    save_json(OUT_VENUES_GEOJSON, build_geojson(venue_features))
     save_json(OUT_SUMMARY, summary)
 
     print(json.dumps(summary, ensure_ascii=False, indent=2))

@@ -1,0 +1,5507 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9836978,
+          56.0578789
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:ruki-vverh-8",
+        "title": "Руки Вверх",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Стадион Енисей",
+        "resolvedVenue": "Футбол-Арена Енисей",
+        "startDate": "2026-04-26T19:00:00+07:00",
+        "endDate": "2026-04-26T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/ruki-vverh-8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8749695,
+          55.9956567
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:basta",
+        "title": "Баста",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Дворец спорта им. Ивана Ярыгина",
+        "resolvedVenue": "Дворец Спорта им. Ивана Ярыгина",
+        "startDate": "2026-05-24T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/basta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8749695,
+          55.9956567
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:kontsert-pavla-voli-bolshoy-stand-up-1",
+        "title": "Павел Воля",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Дворец спорта им. Ивана Ярыгина",
+        "resolvedVenue": "Дворец Спорта им. Ивана Ярыгина",
+        "startDate": "2026-04-25T19:00:00+07:00",
+        "endDate": "2026-04-25T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/kontsert-pavla-voli-bolshoy-stand-up-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8946084,
+          56.0507865
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:maksim",
+        "title": "МакSим",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Ледовый дворец Арена Север",
+        "resolvedVenue": "Арена-Север",
+        "startDate": "2026-05-25T19:00:00+07:00",
+        "endDate": "2026-05-25T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/maksim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:alex-lim-2",
+        "title": "Алекс Лим",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-04-29T19:00:00+07:00",
+        "endDate": "2026-04-29T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/alex-lim-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8749695,
+          55.9956567
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:knyazz-8",
+        "title": "КняZz",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Дворец спорта им. Ивана Ярыгина",
+        "resolvedVenue": "Дворец Спорта им. Ивана Ярыгина",
+        "startDate": "2026-04-26T18:00:00+07:00",
+        "endDate": "2026-04-26T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/knyazz-8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.798623,
+          56.021221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:tatyana-ovsienko---solnyiy-kontsert-1",
+        "title": "Татьяна Овсиенко",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Концертный зал Афонтовский",
+        "resolvedVenue": "Концертный зал Афонтовский",
+        "startDate": "2026-11-14T19:00:00+07:00",
+        "endDate": "2026-11-14T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/tatyana-ovsienko---solnyiy-kontsert-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:dabro",
+        "title": "Dabro",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-05-01T19:00:00+07:00",
+        "endDate": "2026-05-01T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/dabro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:vecher-klassicheskoy-muzyiki",
+        "title": "Вечер классической музыки",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-25T17:00:00+07:00",
+        "endDate": "2026-04-25T19:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/vecher-klassicheskoy-muzyiki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:aleksandr-ivanov-i-gruppa-rondo_2026-05-16",
+        "title": "Александр Иванов и группа \"Рондо\"",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-05-16T19:00:00+07:00",
+        "endDate": "2026-05-16T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/aleksandr-ivanov-i-gruppa-rondo_2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.798623,
+          56.021221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:aleksey-goman-23",
+        "title": "Алексей Гоман",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Концертный зал Афонтовский",
+        "resolvedVenue": "Концертный зал Афонтовский",
+        "startDate": "2026-05-16T19:00:00+07:00",
+        "endDate": "2026-05-16T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/aleksey-goman-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8946084,
+          56.0507865
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:ani-lorak-6",
+        "title": "Ани Лорак",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Ледовый дворец Арена Север",
+        "resolvedVenue": "Арена-Север",
+        "startDate": "2026-05-30T19:00:00+07:00",
+        "endDate": "2026-05-30T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/ani-lorak-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:melnitsa",
+        "title": "Группа Мельница",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-05-23T19:00:00+07:00",
+        "endDate": "2026-05-23T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/melnitsa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kvartet-i-passajiryi-otlojennyih-reysov",
+        "title": "Квартет И. ПРЕМЬЕРА! \"Пассажиры отложенных рейсов\"",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-06-10T19:00:00+07:00",
+        "endDate": "2026-06-10T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/kvartet-i-passajiryi-otlojennyih-reysov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:gruppa-kraski-3",
+        "title": "Краски",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-06-20T20:00:00+07:00",
+        "endDate": "2026-06-20T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/gruppa-kraski-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8946084,
+          56.0507865
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:the-hatters-10-let-krasnoyarsk--24-maya--arena-sever_2026-05-24",
+        "title": "The Hatters",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Ледовый дворец Арена Север",
+        "resolvedVenue": "Арена-Север",
+        "startDate": "2026-05-24T20:00:00+07:00",
+        "endDate": "2026-05-24T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/ledovyiy-dvorets-arena-sever-5a6b1176b3d8f/the-hatters-10-let-krasnoyarsk--24-maya--arena-sever_2026-05-24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:aleksandr-ustyugov-pesni-vladimira-vyisotskogo-v-soprovojdenii-orkestra-1",
+        "title": "Александр Устюгов: Песни Владимира Высоцкого в сопровождении оркестра",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-05-26T19:00:00+07:00",
+        "endDate": "2026-05-26T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/aleksandr-ustyugov-pesni-vladimira-vyisotskogo-v-soprovojdenii-orkestra-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8946084,
+          56.0507865
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:mot-13",
+        "title": "МОТ",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Ледовый дворец Арена Север",
+        "resolvedVenue": "Арена-Север",
+        "startDate": "2026-10-07T19:00:00+07:00",
+        "endDate": "2026-10-07T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/mot-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:pesenki-vertinskogo-1",
+        "title": "Песенки Вертинского",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-07T19:00:00+07:00",
+        "endDate": "2026-05-07T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/pesenki-vertinskogo-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:plazma",
+        "title": "Plazma",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-06-05T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/plazma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:monah-avel-vechnaya-lyubov_2026-05-12",
+        "title": "Монах Авель. Вечная любовь",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-05-12T19:00:00+07:00",
+        "endDate": "2026-05-12T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/krasnoyarskaya-kraevaya-filarmoniya-2017/monah-avel-vechnaya-lyubov_2026-05-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:moya-mishel-7",
+        "title": "Моя Мишель",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-05-14T19:00:00+07:00",
+        "endDate": "2026-05-14T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/moya-mishel-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:denis-maydanov-3",
+        "title": "Денис Майданов",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-10-13T19:00:00+07:00",
+        "endDate": "2026-10-13T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/denis-maydanov-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:zolotoy-sostav-strelok-5",
+        "title": "Золотой состав Стрелок",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-05-16T20:00:00+07:00",
+        "endDate": "2026-05-16T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/zolotoy-sostav-strelok-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:tehnologiya-3",
+        "title": "Технология",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-04-24T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/tehnologiya-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:shou:sergey-orlov-31",
+        "title": "Сергей Орлов",
+        "category": "show",
+        "tags": "show",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-09-24T19:00:00+07:00",
+        "endDate": "2026-09-24T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/shou/sergey-orlov-31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:queen-shou-bogemskaya-rapsodiya-v-soprovojdenii-simfonicheskogo-orkestra_2026-04-07",
+        "title": "Queen. Шоу «Богемская рапсодия» в сопровождении симфонического оркестра",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-01-02T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/krasnoyarskaya-kraevaya-filarmoniya-2017/queen-shou-bogemskaya-rapsodiya-v-soprovojdenii-simfonicheskogo-orkestra_2026-04-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8646803,
+          56.0121674
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:aleksandr-rayn-9",
+        "title": "Александр Райн",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Дом Кино",
+        "resolvedVenue": "Дом кино",
+        "startDate": "2026-06-02T19:00:00+07:00",
+        "endDate": "2026-06-02T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/aleksandr-rayn-9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:balet-igorya-moiseeva-13",
+        "title": "Балет Игоря Моисеева",
+        "category": "concert",
+        "tags": "ballet, dance, music",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-11-18T19:00:00+07:00",
+        "endDate": "2026-11-18T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/balet-igorya-moiseeva-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8946084,
+          56.0507865
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:mari-kraymbreri-4",
+        "title": "Мари Краймбрери",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Ледовый дворец Арена Север",
+        "resolvedVenue": "Арена-Север",
+        "startDate": "2026-09-25T20:00:00+07:00",
+        "endDate": "2026-09-25T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/mari-kraymbreri-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:vyacheslav-butusov-nautilus-pompilius-1",
+        "title": "Вячеслав Бутусов и группа Орден Славы: Nautilus Pompilius",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-09-25T19:00:00+07:00",
+        "endDate": "2026-09-25T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/vyacheslav-butusov-nautilus-pompilius-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:chernyiy-kofe-12",
+        "title": "Черный кофе",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-05-14T20:00:00+07:00",
+        "endDate": "2026-05-14T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/chernyiy-kofe-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:gruppa-butyirka_2026-11-21",
+        "title": "Бутырка",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-11-21T19:00:00+07:00",
+        "endDate": "2026-11-21T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/gruppa-butyirka_2026-11-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8361583,
+          56.0066903
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:viktor-komarov-16",
+        "title": "Виктор Комаров",
+        "category": "concert",
+        "tags": "music",
+        "venue": "ДК Комбайностроителей",
+        "resolvedVenue": "Дворец культуры комбайностроителей",
+        "startDate": "2026-11-15T20:00:00+07:00",
+        "endDate": "2026-11-15T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/viktor-komarov-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:irina-i-aleksandr-krug_2026-09-20",
+        "title": "Ирина и Александр Круг",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-09-20T19:00:00+07:00",
+        "endDate": "2026-09-20T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/irina-i-aleksandr-krug_2026-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:orkestr-sagmo-saundtreki-eynaudi-1",
+        "title": "Оркестр Cagmo: Саундтреки Эйнауди – Двойной концерт при свечах",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-11-19T19:00:00+07:00",
+        "endDate": "2026-11-19T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/orkestr-sagmo-saundtreki-eynaudi-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:propaganda-4",
+        "title": "Пропаганда",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-07-05T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/propaganda-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:opernyie-snyi-neyroseti",
+        "title": "Оперные сны Нейросети",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-01T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/opernyie-snyi-neyroseti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:vadim-samoylov--agata-kristi-s-orkestrom-1",
+        "title": "Вадим Самойлов (Агата Кристи) с оркестром",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-10-15T19:00:00+07:00",
+        "endDate": "2026-10-15T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/vadim-samoylov--agata-kristi-s-orkestrom-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8946084,
+          56.0507865
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:lsp",
+        "title": "ЛСП",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Ледовый дворец Арена Север",
+        "resolvedVenue": "Арена-Север",
+        "startDate": "2026-06-13T19:00:00+07:00",
+        "endDate": "2026-06-13T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/lsp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:andru-donalds-zolotoy-golos-enigma",
+        "title": "Andru Donalds \"Золотой голос Энигма\"",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-11-06T19:00:00+07:00",
+        "endDate": "2026-11-06T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/andru-donalds-zolotoy-golos-enigma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:shou:uralskie-pelmeni-luchshee-11",
+        "title": "Уральские Пельмени: Лучшее",
+        "category": "show",
+        "tags": "show",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-10-17T19:30:00+07:00",
+        "endDate": "2026-10-17T22:00:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/shou/uralskie-pelmeni-luchshee-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:formula-orkestra-motsart-otets-i-syin_2026-05-23",
+        "title": "Формула оркестра. Моцарт: отец и сын",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-23T19:00:00+07:00",
+        "endDate": "2026-05-23T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/kgauk-krasnoyarskiy-gosudarstvennyiy-teatr-operyi-i-baleta/formula-orkestra-motsart-otets-i-syin_2026-05-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:mihail-shufutinskiy-12",
+        "title": "Михаил Шуфутинский",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-10-05T19:00:00+07:00",
+        "endDate": "2026-10-05T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/mihail-shufutinskiy-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8781639,
+          56.0097944
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:scally-milano-4",
+        "title": "Scally Milano",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Клуб-галерея Эрмитаж",
+        "resolvedVenue": "Эрмитаж",
+        "startDate": "2026-05-08T19:00:00+07:00",
+        "endDate": "2026-05-08T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/scally-milano-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9726666,
+          56.0530557
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:klassik-bend-muzyika-kinoekranov",
+        "title": "Классик-Бэнд. Музыка киноэкранов",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Дворец культуры и спорта Металлургов",
+        "resolvedVenue": "Дворец культуры и спорта металлургов",
+        "startDate": "2026-05-06T19:00:00+07:00",
+        "endDate": "2026-05-06T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/klassik-bend-muzyika-kinoekranov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:shura",
+        "title": "Шура",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-11-01T20:00:00+07:00",
+        "endDate": "2026-11-01T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/shura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8361583,
+          56.0066903
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:lena-vasilyok_2026-10-22",
+        "title": "Лена Василёк",
+        "category": "concert",
+        "tags": "music",
+        "venue": "ДК Комбайностроителей",
+        "resolvedVenue": "Дворец культуры комбайностроителей",
+        "startDate": "2026-10-22T19:00:00+07:00",
+        "endDate": "2026-10-22T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/dk-kombaynostroiteley/lena-vasilyok_2026-10-22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:orkestr-polya-moria---zolotaya-kollektsiya-iz-repertuara_2026-10-10",
+        "title": "Оркестр Поля Мориа: Золотая коллекция из репертуара",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-10-10T19:00:00+07:00",
+        "endDate": "2026-10-10T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/orkestr-polya-moria---zolotaya-kollektsiya-iz-repertuara_2026-10-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:rok-ostrov",
+        "title": "Рок-Острова",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-10-08T20:00:00+07:00",
+        "endDate": "2026-10-08T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/rok-ostrov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:trubetskoy-6",
+        "title": "Трубецкой",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-05-21T20:00:00+07:00",
+        "endDate": "2026-05-21T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/trubetskoy-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:gala-opera-1",
+        "title": "Гала-опера",
+        "category": "concert",
+        "tags": "music, opera",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-07-05T18:00:00+07:00",
+        "endDate": "2026-07-05T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/gala-opera-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:magiya-severa-volshebnyiy-kontsert-olenyi-uutay-34",
+        "title": "Магия Севера. Волшебный концерт Олены УУТАй",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-10-07T19:00:00+07:00",
+        "endDate": "2026-10-07T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/magiya-severa-volshebnyiy-kontsert-olenyi-uutay-34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:hityi-sting-s-simfonicheskim-orkestrom-desert-rose-symphony-5",
+        "title": "Хиты Sting с симфоническим оркестром: Desert Rose Symphony",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-10-25T19:00:00+07:00",
+        "endDate": "2026-10-25T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/hityi-sting-s-simfonicheskim-orkestrom-desert-rose-symphony-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:stand-up-kontsert-guram-amaryan-bazar-v-krasnoyarske_2026-10-26",
+        "title": "Гурам Амарян: Stand Up концерт \"Базар\"",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-10-26T20:00:00+07:00",
+        "endDate": "2026-10-26T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/kz-grand-holl-sibir/stand-up-kontsert-guram-amaryan-bazar-v-krasnoyarske_2026-10-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1811064,
+          69.358378
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:queen-luchshie-hityi-c-simfonicheskim-orkestrom-one-vision-9",
+        "title": "Queen лучшие хиты c симфоническим оркестром. ONE VISION",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Арт-Холл Синема",
+        "resolvedVenue": "Синема Арт Холл",
+        "startDate": "2026-05-26T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/queen-luchshie-hityi-c-simfonicheskim-orkestrom-one-vision-9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9356983,
+          56.0385402
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:mnogotochie-i-whit-hot-ice",
+        "title": "Многоточие и Whit Hot Ice",
+        "category": "concert",
+        "tags": "music",
+        "venue": "МАКСИМИЛИАНС – Клубный ресторан",
+        "resolvedVenue": "Максимилианс",
+        "startDate": "2026-10-18T20:00:00+07:00",
+        "endDate": "2026-10-18T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/mnogotochie-i-whit-hot-ice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:orkestr-cagmo-pesni-sovetskih-kinofilmov",
+        "title": "Оркестр Cagmo: Песни Советских кинофильмов",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-01-23T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/orkestr-cagmo-pesni-sovetskih-kinofilmov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:natalya-podolskaya-2",
+        "title": "Наталья Подольская",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-10-05T19:00:00+07:00",
+        "endDate": "2026-10-05T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/natalya-podolskaya-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.798623,
+          56.021221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:arhiereyskiy-mujskoy-hor-aksios",
+        "title": "Архиерейский мужской хор Аксиос",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Концертный зал Афонтовский",
+        "resolvedVenue": "Концертный зал Афонтовский",
+        "startDate": "2026-06-23T19:00:00+07:00",
+        "endDate": "2026-06-23T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/arhiereyskiy-mujskoy-hor-aksios"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:orkestr-cagmo-rok-simfoniya-pri-svechah-5",
+        "title": "Оркестр Cagmo: Рок-Симфония при свечах",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-10-31T18:00:00+07:00",
+        "endDate": "2026-10-31T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/orkestr-cagmo-rok-simfoniya-pri-svechah-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:orkestr-cagmo-simfoniya-the-witcher",
+        "title": "Оркестр Cagmo: Симфония Ведьмак при свечах (Красноярск)",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-06-26T19:00:00+07:00",
+        "endDate": "2026-06-26T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/orkestr-cagmo-simfoniya-the-witcher"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:orkestr-cagmo-saundtreki-hansa-tsimmera-7",
+        "title": "Оркестр Cagmo: Саундтреки Ханса Циммера при свечах",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-09-23T19:00:00+07:00",
+        "endDate": "2026-09-23T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/orkestr-cagmo-saundtreki-hansa-tsimmera-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:surganova-i-orkestr",
+        "title": "Сурганова и Оркестр",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-10-24T19:00:00+07:00",
+        "endDate": "2026-10-24T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/surganova-i-orkestr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:legendyi-mtv-orkestr-pri-svechah",
+        "title": "Легенды MTV. Оркестр при свечах",
+        "category": "concert",
+        "tags": "music, orchestra",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-05-29T19:00:00+07:00",
+        "endDate": "2026-05-29T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/legendyi-mtv-orkestr-pri-svechah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8781639,
+          56.0097944
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:megamozg-13",
+        "title": "Мегамозг",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Клуб-галерея Эрмитаж",
+        "resolvedVenue": "Эрмитаж",
+        "startDate": "2026-05-10T19:00:00+07:00",
+        "endDate": "2026-05-10T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/megamozg-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:muzyikalnaya-sreda",
+        "title": "Музыкальная среда",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/koncert/muzyikalnaya-sreda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8781639,
+          56.0097944
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:yorsh---krasnoyarsk_2026-09-20",
+        "title": "ЙОРШ",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Клуб-галерея Эрмитаж",
+        "resolvedVenue": "Эрмитаж",
+        "startDate": "2026-09-20T19:00:00+07:00",
+        "endDate": "2026-09-20T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/klub-galereya-ermitaj/yorsh---krasnoyarsk_2026-09-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:saundtreki-sovetskih-kinofilmov",
+        "title": "Саундтреки советских кинофильмов",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-06-02T19:00:00+07:00",
+        "endDate": "2026-06-02T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/saundtreki-sovetskih-kinofilmov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:oleg-pogudin-krasnoyarsk",
+        "title": "Олег Погудин Красноярск",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-10-06T19:00:00+07:00",
+        "endDate": "2026-10-06T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/oleg-pogudin-krasnoyarsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.1454977,
+          51.4294675
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:bilbordyi-12",
+        "title": "Билборды",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Закрытый клуб 64/6",
+        "resolvedVenue": "Красноярск",
+        "startDate": "2026-09-06T19:30:00+07:00",
+        "endDate": "2026-09-06T22:00:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/bilbordyi-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8781639,
+          56.0097944
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:vitya-matanga-4",
+        "title": "Витя Матанга",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Клуб-галерея Эрмитаж",
+        "resolvedVenue": "Эрмитаж",
+        "startDate": "2026-10-02T20:00:00+07:00",
+        "endDate": "2026-10-02T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/vitya-matanga-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:parad-zvezd-80-h-6",
+        "title": "Звезды эстрады 80-х",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-11-26T19:00:00+07:00",
+        "endDate": "2026-11-26T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/parad-zvezd-80-h-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.880493,
+          56.017346
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:sovetskie-hityi",
+        "title": "Советские хиты",
+        "category": "concert",
+        "tags": "music",
+        "venue": "КЗ Новая Сцена",
+        "resolvedVenue": "Новая сцена",
+        "startDate": "2026-10-10T19:00:00+07:00",
+        "endDate": "2026-10-10T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/sovetskie-hityi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8361583,
+          56.0066903
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:solnyiy-kontsert-miroslavyi-i-zlatyi-byikovyih-1",
+        "title": "Мирослава и Злата Быковы",
+        "category": "concert",
+        "tags": "music",
+        "venue": "ДК Комбайностроителей",
+        "resolvedVenue": "Дворец культуры комбайностроителей",
+        "startDate": "2026-10-12T19:00:00+07:00",
+        "endDate": "2026-10-12T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/solnyiy-kontsert-miroslavyi-i-zlatyi-byikovyih-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:silva-edvin-i-drugie",
+        "title": "Сильва, Эдвин и другие",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-17T15:00:00+07:00",
+        "endDate": "2026-05-17T17:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/silva-edvin-i-drugie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:muzyika-zemli-russkoy",
+        "title": "Музыка земли русской",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-10T15:00:00+07:00",
+        "endDate": "2026-05-10T17:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/muzyika-zemli-russkoy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:12-vekov-mujestva",
+        "title": "12 веков мужества",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-06-12T18:00:00+07:00",
+        "endDate": "2026-06-12T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/12-vekov-mujestva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:kto-skazal-chto-nujno-brosit-pesni-na-voyne",
+        "title": "Кто сказал, что нужно бросить песни на войне?",
+        "category": "concert",
+        "tags": "music",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-08T19:00:00+07:00",
+        "endDate": "2026-05-08T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/kto-skazal-chto-nujno-brosit-pesni-na-voyne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:koncert:pobeda-budet-za-nami",
+        "title": "Победа будет за нами",
+        "category": "concert",
+        "tags": "kids, music",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-09T18:00:00+07:00",
+        "endDate": "2026-05-09T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/koncert/pobeda-budet-za-nami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:jenschinyi-7",
+        "title": "Женщины",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-04-27T19:00:00+07:00",
+        "endDate": "2026-04-27T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/jenschinyi-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:teremok--3",
+        "title": "Теремок",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-04-26T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/teremok--3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:myi-letim",
+        "title": "Мы летим",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-04-26T18:00:00+07:00",
+        "endDate": "2026-04-26T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/myi-letim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:ya-vas-tak-ne-otpuschu",
+        "title": "Я Вас так не отпущу и привет Котопесику",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-25T14:30:00+07:00",
+        "endDate": "2026-04-25T17:00:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/ya-vas-tak-ne-otpuschu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:on-ona-shpion-balkon",
+        "title": "Он, она, шпион, балкон",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-24T21:30:00+07:00",
+        "endDate": "2026-04-25T00:00:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/on-ona-shpion-balkon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:evgeniy-onegin",
+        "title": "Евгений Онегин",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-04-26T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/evgeniy-onegin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lyubov-v-stile-disco",
+        "title": "Любовь в стиле Disco",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/lyubov-v-stile-disco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:evgeniy-mironov-v-spektakle-russkiy-krest_2026-04-23",
+        "title": "Спектакль \"Русский крест\". Евгений Миронов",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-04-23T19:00:00+07:00",
+        "endDate": "2026-04-23T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/krasnoyarskaya-kraevaya-filarmoniya-2017/evgeniy-mironov-v-spektakle-russkiy-krest_2026-04-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dnevnik-tolstushki",
+        "title": "Дневник толстушки",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-28T19:00:00+07:00",
+        "endDate": "2026-04-28T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/dnevnik-tolstushki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:palata-biznes-klassa-16",
+        "title": "Палата бизнес-класса",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-04-28T19:00:00+07:00",
+        "endDate": "2026-04-28T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/palata-biznes-klassa-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:viktor-suhorukov-monospektakl-schastlivyie-dni-2",
+        "title": "Виктор Сухоруков. \"Счастливые дни\"",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-05-20T19:00:00+07:00",
+        "endDate": "2026-05-20T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/viktor-suhorukov-monospektakl-schastlivyie-dni-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:tantsuy-so-mnoy-spektakl-5",
+        "title": "Танцуй со мной. Спектакль",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-18T19:00:00+07:00",
+        "endDate": "2026-05-18T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/tantsuy-so-mnoy-spektakl-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:koshmariki",
+        "title": "Кошмарики",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/koshmariki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:malchishnik-po-italyanski",
+        "title": "Мальчишник по-итальянски",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-03T14:00:00+07:00",
+        "endDate": "2026-05-03T16:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/malchishnik-po-italyanski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:chto-sluchilos-s-radugoy",
+        "title": "Что случилось с радугой?",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-25T11:00:00+07:00",
+        "endDate": "2026-04-25T13:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/chto-sluchilos-s-radugoy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:s-mamoy-ne-shutyat",
+        "title": "С мамой не шутят",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-01T14:00:00+07:00",
+        "endDate": "2026-05-01T16:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/s-mamoy-ne-shutyat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:vladivostok-moskva",
+        "title": "Владивосток-Москва",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-27T19:00:00+07:00",
+        "endDate": "2026-05-27T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/vladivostok-moskva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dva-muja-po-odnoy-tsene",
+        "title": "Два мужа по цене одного",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/dva-muja-po-odnoy-tsene"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kruglyiy-god--1",
+        "title": "Круглый год",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-02T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/kruglyiy-god--1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:ya-babushka-iliko-i-illarion-8",
+        "title": "Я, бабушка, Илико и Илларион",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/ya-babushka-iliko-i-illarion-8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8361583,
+          56.0066903
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:byivshie-31",
+        "title": "Бывшие",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "ДК Комбайностроителей",
+        "resolvedVenue": "Дворец культуры комбайностроителей",
+        "startDate": "2026-05-20T19:00:00+07:00",
+        "endDate": "2026-05-20T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/byivshie-31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:salon-krasotyi-ili-o-chem-govoryat-jenschinyi-11",
+        "title": "Салон красоты, или о чем говорят женщины",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-31T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/salon-krasotyi-ili-o-chem-govoryat-jenschinyi-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:jenitba",
+        "title": "Женитьба",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/jenitba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:vremya-jenschin-2",
+        "title": "Время женщин",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/vremya-jenschin-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:zverskiy-detektiv_2026-04-26",
+        "title": "Зверский детектив",
+        "category": "theatre",
+        "tags": "kids, theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-04-26T11:00:00+07:00",
+        "endDate": "2026-04-26T13:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/zverskiy-detektiv_2026-04-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:yo-moyo",
+        "title": "Ё-моё",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-10T17:00:00+07:00",
+        "endDate": "2026-05-10T19:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/yo-moyo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:razgovor-s-angelom-za-sekundu-do-probujdeniya",
+        "title": "Разговор с ангелом за секунду до пробуждения",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-27T19:00:00+07:00",
+        "endDate": "2026-04-27T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/razgovor-s-angelom-za-sekundu-do-probujdeniya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:festivali:vesennie-horovyie-kapellyi",
+        "title": "Весенние хоровые капеллы",
+        "category": "other",
+        "tags": "",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-24T18:00:00+07:00",
+        "endDate": "2026-05-24T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/festivali/vesennie-horovyie-kapellyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:master-i-margarita_2026-06-03",
+        "title": "Мастер и Маргарита",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-03T19:00:00+07:00",
+        "endDate": "2026-06-03T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/master-i-margarita_2026-06-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:abahay-pahta_2026-06-03",
+        "title": "Абахай Пахта",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-06-03T19:00:00+07:00",
+        "endDate": "2026-06-03T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/sibirskiy-gosudarstvennyiy-institut-iskusstv-im-dhvorostovskogo/abahay-pahta_2026-06-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:podarok-sudbyi_2026-06-03",
+        "title": "Подарок судьбы",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-03T19:00:00+07:00",
+        "endDate": "2026-06-03T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/podarok-sudbyi_2026-06-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:severnyie-ptitsyi_2026-06-02",
+        "title": "Северные птицы",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-02T19:00:00+07:00",
+        "endDate": "2026-06-02T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/severnyie-ptitsyi_2026-06-02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:loj_2026-06-02",
+        "title": "ЛОЖЬ!",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-06-02T19:00:00+07:00",
+        "endDate": "2026-06-02T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/dom-aktera-2/loj_2026-06-02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:pechatnaya-grafika-tsvetnaya-linogravyura",
+        "title": "Печатная графика: цветная линогравюра",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/pechatnaya-grafika-tsvetnaya-linogravyura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:ekskursiya-po-muzeyu--istoriya-arhitektura-postoyannyie-vyistavki",
+        "title": "Экскурсия по музею — история, архитектура, постоянные выставки",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/ekskursiya-po-muzeyu--istoriya-arhitektura-postoyannyie-vyistavki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:nochnaya-ekskursiya-s-vyihodom-na-kryishu",
+        "title": "Ночная экскурсия с выходом на крышу",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": "2026-05-23T20:00:00+07:00",
+        "endDate": "2026-05-23T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/muzey/nochnaya-ekskursiya-s-vyihodom-na-kryishu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:nochnaya-ekskursiya-v-2000",
+        "title": "Ночная экскурсия",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/nochnaya-ekskursiya-v-2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9029512,
+          56.0504348
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:shou-azot--master-klass-svetlyachok",
+        "title": "Шоу Азот + мастер-класс \"Светлячок\"",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "ТРЦ Планета.",
+        "resolvedVenue": "Планета",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/shou-azot--master-klass-svetlyachok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:fotografiya-poisk-vizualnogo-yazyika",
+        "title": "Фотография: поиск визуального языка",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/fotografiya-poisk-vizualnogo-yazyika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:teoriya-sovremennogo-iskusstva-obrazovatelnyiy-kurs",
+        "title": "Теория современного искусства. Образовательный курс",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/teoriya-sovremennogo-iskusstva-obrazovatelnyiy-kurs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:masterskaya-trogatelnyih-del-tsikl-zanyatiy",
+        "title": "Мастерская трогательных дел. Цикл занятий",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/masterskaya-trogatelnyih-del-tsikl-zanyatiy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:tsikl-kinoobsujdeniy-aziatskoe-kino",
+        "title": "Цикл кинообсуждений: Азиатское кино",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/tsikl-kinoobsujdeniy-aziatskoe-kino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:studiya-performativnyih-praktik",
+        "title": "Студия перформативных практик",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": "2026-05-10T15:30:00+07:00",
+        "endDate": "2026-05-10T18:00:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/muzey/studiya-performativnyih-praktik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:dreyf-progulka-po-vyistavke-budut-znaki",
+        "title": "Дрейф-прогулка по выставке \"Будут знаки\"",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/dreyf-progulka-po-vyistavke-budut-znaki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:arhitekturnaya-ekskursiya",
+        "title": "Архитектурная экскурсия",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": "2026-04-26T13:00:00+07:00",
+        "endDate": "2026-04-26T15:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/muzey/arhitekturnaya-ekskursiya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8937198,
+          56.0109493
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:muzey:razgovornyiy-klub-angliyskogo",
+        "title": "Разговорный клуб английского",
+        "category": "other",
+        "tags": "",
+        "venue": "Площадь Мира",
+        "resolvedVenue": "Музейный центр «Площадь Мира»",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/muzey/razgovornyiy-klub-angliyskogo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:fokusyi-pokusyi",
+        "title": "Фокусы-покусы",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-26T11:00:00+07:00",
+        "endDate": "2026-04-26T13:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/detyam/fokusyi-pokusyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:est-li-jizn-v-offline",
+        "title": "Есть ли жизнь в офлайн?",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-13T19:00:00+07:00",
+        "endDate": "2026-05-13T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/est-li-jizn-v-offline"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:sobaka-kotoraya-ne-umela-layat",
+        "title": "Собака, которая не умела лаять",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-04-24T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/sobaka-kotoraya-ne-umela-layat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:kotyonok-po-imeni-gav-2",
+        "title": "Котёнок по имени Гав",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-23T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/kotyonok-po-imeni-gav-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:istoriya-neveroyatnoy-drujbyi",
+        "title": "История невероятной дружбы",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/istoriya-neveroyatnoy-drujbyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9726666,
+          56.0530557
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:vovka-v-strane-nevyiuchennyih-urokov",
+        "title": "Вовка в стране невыученных уроков",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Дворец культуры и спорта Металлургов",
+        "resolvedVenue": "Дворец культуры и спорта металлургов",
+        "startDate": "2026-05-10T12:00:00+07:00",
+        "endDate": "2026-05-10T14:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/detyam/vovka-v-strane-nevyiuchennyih-urokov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:malenkiy-prints",
+        "title": "Маленький принц",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-17T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/malenkiy-prints"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9012232,
+          56.0197149
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:kvest-shkola-volshebnikov-v-hogvartse-1",
+        "title": "Квест-Школа Волшебников в Хогвартсе",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "ХогвартсХолл",
+        "resolvedVenue": "Хогвартс Холл",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/kvest-shkola-volshebnikov-v-hogvartse-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9012232,
+          56.0197149
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:muzey---vyistavka-mir-garri-pottera",
+        "title": "Музей Гарри Поттера",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "ХогвартсХолл",
+        "resolvedVenue": "Хогвартс Холл",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/muzey---vyistavka-mir-garri-pottera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9029512,
+          56.0504348
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:detskaya-nauchnaya-ploschadka",
+        "title": "Детская научная площадка",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "ТРЦ Планета.",
+        "resolvedVenue": "Планета",
+        "startDate": "2026-04-23T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/detskaya-nauchnaya-ploschadka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9029512,
+          56.0504348
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:elektroshou-i-master-klass-otkryitka-s-podsvetkoy",
+        "title": "Электрошоу и Мастер-класс \"Открытка с подсветкой\"",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "ТРЦ Планета.",
+        "resolvedVenue": "Планета",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/elektroshou-i-master-klass-otkryitka-s-podsvetkoy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:mtsyiri-ktk",
+        "title": "Мцыри",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-12T19:00:00+07:00",
+        "endDate": "2026-05-12T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/detyam/mtsyiri-ktk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:chuk-i-gek--7",
+        "title": "Чук и Гек",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-09T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/chuk-i-gek--7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:zolotoy-tsyiplenok--4",
+        "title": "Золотой цыпленок",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-10T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/zolotoy-tsyiplenok--4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kolyibelnaya-dlya-myishonka--3",
+        "title": "Колыбельная для мышонка",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-24T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/kolyibelnaya-dlya-myishonka--3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:vorobishko-2",
+        "title": "Воробьишко",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-05T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/vorobishko-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:detyam:ekskursiya-professionalnyiy-teatr-kukol--16",
+        "title": "Профессиональный театр кукол. Экскурсия",
+        "category": "kids",
+        "tags": "kids",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-14T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/detyam/ekskursiya-professionalnyiy-teatr-kukol--16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8361583,
+          56.0066903
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:shou:nadya-djabrailova-19",
+        "title": "Надя Джабраилова. Stand Up",
+        "category": "show",
+        "tags": "show",
+        "venue": "ДК Комбайностроителей",
+        "resolvedVenue": "Дворец культуры комбайностроителей",
+        "startDate": "2026-05-15T19:00:00+07:00",
+        "endDate": "2026-05-15T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/shou/nadya-djabrailova-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:obrazovanie:viktoriya-makarskaya---babsovet-1",
+        "title": "Виктория Макарская - БабСовет",
+        "category": "education",
+        "tags": "",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-06-07T16:00:00+07:00",
+        "endDate": "2026-06-07T18:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/obrazovanie/viktoriya-makarskaya---babsovet-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8749695,
+          55.9956567
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:obrazovanie:alfa-konfa-krasnoyarsk",
+        "title": "Альфа-Конфа",
+        "category": "education",
+        "tags": "",
+        "venue": "Дворец спорта им. Ивана Ярыгина",
+        "resolvedVenue": "Дворец Спорта им. Ивана Ярыгина",
+        "startDate": "2026-06-24T11:00:00+07:00",
+        "endDate": "2026-06-24T13:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/obrazovanie/alfa-konfa-krasnoyarsk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:zolotaya-printsessa",
+        "title": "Золотая принцесса",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-03T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/zolotaya-printsessa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:chisto-semeynoe-delo-5",
+        "title": "Чисто семейное дело",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-01T18:00:00+07:00",
+        "endDate": "2026-05-01T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/chisto-semeynoe-delo-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kapitanskaya-dochka-19",
+        "title": "Капитанская дочка",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/kapitanskaya-dochka-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:a-sverhu-vsyo-vidno",
+        "title": "А сверху всё видно",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-27T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/a-sverhu-vsyo-vidno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:karmen-balet-9",
+        "title": "Кармен. Балет",
+        "category": "theatre",
+        "tags": "ballet, dance, theatre",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-06-25T19:00:00+07:00",
+        "endDate": "2026-06-25T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/karmen-balet-9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9726666,
+          56.0530557
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:bremenskie-muzyikantyi",
+        "title": "Бременские музыканты",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дворец культуры и спорта Металлургов",
+        "resolvedVenue": "Дворец культуры и спорта металлургов",
+        "startDate": "2026-05-02T12:00:00+07:00",
+        "endDate": "2026-05-02T14:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/bremenskie-muzyikantyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lyubovnichki-krasnoyarsk_2026-05-15",
+        "title": "Любовнички. Красноярск",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-05-15T19:00:00+07:00",
+        "endDate": "2026-05-15T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/kz-grand-holl-sibir/lyubovnichki-krasnoyarsk_2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dvoynoy-obman",
+        "title": "Ну и семейка, или Двойной обман",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/dvoynoy-obman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8357862,
+          56.0097396
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:igra-v-gerakla-tk-petrushka-surgut",
+        "title": "Игра в Геракла (ТК \"Петрушка\", Сургут)",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский музыкальный театр",
+        "resolvedVenue": "Красноярский музыкальный театр",
+        "startDate": "2026-06-02T19:00:00+07:00",
+        "endDate": "2026-06-02T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/igra-v-gerakla-tk-petrushka-surgut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:yason-i-medeya-2",
+        "title": "Ясон и Медея",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-11T20:00:00+07:00",
+        "endDate": "2026-05-11T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/yason-i-medeya-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:rozenkrants-gildenstern-mertvyi",
+        "title": "Розенкранц и Гильденстерн мертвы",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-27T19:00:00+07:00",
+        "endDate": "2026-05-27T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/rozenkrants-gildenstern-mertvyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:oy-ryabina-kudryavaya",
+        "title": "Ой, рябина кудрявая",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/oy-ryabina-kudryavaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:moy-bednyiy-marat",
+        "title": "Мой бедный Марат",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-09T18:00:00+07:00",
+        "endDate": "2026-05-09T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/moy-bednyiy-marat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.5339255,
+          56.2507646
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lyubovnichki-jeleznogorsk_2026-05-16",
+        "title": "Любовнички. Железногорск",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дворец культуры (Железногорск)",
+        "resolvedVenue": "Дом Культуры",
+        "startDate": "2026-05-16T19:00:00+07:00",
+        "endDate": "2026-05-16T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/mbuk-dvorets-kulturyi-g-jeleznogorsk/lyubovnichki-jeleznogorsk_2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8897129,
+          56.0153584
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:iskusstvo-kitayskih-kukolnikov-tk-kitay",
+        "title": "Искусство китайских кукольников (ТК, Китай)",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Сибирский государственный институт искусств им. Д.Хворостовского",
+        "resolvedVenue": "Сибирский государственный институт искусств имени Дмитрия Хворостовского",
+        "startDate": "2026-05-31T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/iskusstvo-kitayskih-kukolnikov-tk-kitay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:opasnyie-svyazi-6",
+        "title": "Опасные связи",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-05T19:00:00+07:00",
+        "endDate": "2026-05-05T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/opasnyie-svyazi-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:zdes-zajigayut-zvezdyi",
+        "title": "Здесь зажигают звезды",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-07T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/zdes-zajigayut-zvezdyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:gusarskaya-ballada",
+        "title": "Гусарская баллада",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-15T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/gusarskaya-ballada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:iolanta",
+        "title": "Иоланта",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-04-29T19:00:00+07:00",
+        "endDate": "2026-04-29T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/iolanta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:zoykina-kvartira-ekaterinburgskiy-tk",
+        "title": "Зойкина квартира (Екатеринбургский ТК)",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-02T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/zoykina-kvartira-ekaterinburgskiy-tk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:granatovyiy-braslet-5",
+        "title": "Гранатовый браслет",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/granatovyiy-braslet-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:bogema",
+        "title": "Богема",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-04-28T19:00:00+07:00",
+        "endDate": "2026-04-28T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/bogema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:prodavets-dojdya-4",
+        "title": "Продавец дождя",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-18T19:00:00+07:00",
+        "endDate": "2026-05-18T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/prodavets-dojdya-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:pushkin",
+        "title": "Пушкин",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/pushkin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:anna-v-tropikah",
+        "title": "Анна в тропиках",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-23T18:00:00+07:00",
+        "endDate": "2026-05-23T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/anna-v-tropikah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kodjinskie-perepalki-2",
+        "title": "Кьоджинские перепалки",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/kodjinskie-perepalki-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:macheha-samanishvili-1_2026-06-06",
+        "title": "Мачеха Саманишвили",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-06T19:00:00+07:00",
+        "endDate": "2026-06-06T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/macheha-samanishvili-1_2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:maksim-averin",
+        "title": "Максим Аверин",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-09-29T19:00:00+07:00",
+        "endDate": "2026-09-29T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/maksim-averin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:teve-molochnik_2026-06-04",
+        "title": "Тевье-молочник",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-04T19:00:00+07:00",
+        "endDate": "2026-06-04T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/teve-molochnik_2026-06-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:golodrantsyi-aristokratyi-1",
+        "title": "Голодранцы-аристократы",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-29T19:00:00+07:00",
+        "endDate": "2026-05-29T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/golodrantsyi-aristokratyi-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:irlandskiy-geroy_2026-06-05",
+        "title": "Ирландский герой - гордость Запада",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-05T19:00:00+07:00",
+        "endDate": "2026-06-05T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/irlandskiy-geroy_2026-06-05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:pokrovskie-vorota-8",
+        "title": "Покровские ворота",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-26T19:00:00+07:00",
+        "endDate": "2026-05-26T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/pokrovskie-vorota-8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:temnyie-allei-2",
+        "title": "Темные аллеи",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-17T18:00:00+07:00",
+        "endDate": "2026-05-17T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/temnyie-allei-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:gore-ot-uma-13",
+        "title": "Горе от ума",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/gore-ot-uma-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:posledniy-poklon",
+        "title": "Последний поклон",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-02T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/posledniy-poklon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:nochnoy-gost_2026-06-11",
+        "title": "Ночной гость",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-06-11T19:00:00+07:00",
+        "endDate": "2026-06-11T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/krasnoyarskaya-kraevaya-filarmoniya-2017/nochnoy-gost_2026-06-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:orfey-i-evridika-4",
+        "title": "Орфей и Эвридика",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-06-10T19:00:00+07:00",
+        "endDate": "2026-06-10T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/orfey-i-evridika-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:la-traviata",
+        "title": "La Traviata",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-20T19:00:00+07:00",
+        "endDate": "2026-05-20T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/la-traviata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lebedinoe-ozero",
+        "title": "Лебединое озеро",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/lebedinoe-ozero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lyubovnyiy-napitok",
+        "title": "Любовный напиток",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-27T19:00:00+07:00",
+        "endDate": "2026-05-27T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/lyubovnyiy-napitok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:bespridannitsa-21",
+        "title": "Бесприданница",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/bespridannitsa-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:turandot-16",
+        "title": "Турандот",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-06-24T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/turandot-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:slujebnyiy-roman-26",
+        "title": "Служебный роман",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-24T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/slujebnyiy-roman-26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:tea",
+        "title": "Тэа",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-07-03T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/tea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kulisyi",
+        "title": "Кулисы",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-14T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/kulisyi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:ischeznuvshiy-velosipedist-4",
+        "title": "Исчезнувший велосипедист",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-23T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/ischeznuvshiy-velosipedist-4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:skazka-panelnyih-domov",
+        "title": "Сказка панельных домов",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/skazka-panelnyih-domov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:oblomov-3",
+        "title": "Обломов",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/oblomov-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8947108,
+          56.0124221
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:drugaya-jizn_2026-11-11",
+        "title": "Другая жизнь",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярская краевая филармония",
+        "resolvedVenue": "Красноярская краевая филармония",
+        "startDate": "2026-11-11T19:00:00+07:00",
+        "endDate": "2026-11-11T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/krasnoyarskaya-kraevaya-filarmoniya-2017/drugaya-jizn_2026-11-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.880493,
+          56.017346
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:master-i-margarita_2026-10-23",
+        "title": "Мастер и Маргарита",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "КЗ Новая Сцена",
+        "resolvedVenue": "Новая сцена",
+        "startDate": "2026-10-23T19:00:00+07:00",
+        "endDate": "2026-10-23T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/novaya-stsena/master-i-margarita_2026-10-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:domino-3",
+        "title": "Домино",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-15T19:00:00+07:00",
+        "endDate": "2026-05-15T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/domino-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9236642,
+          56.0403113
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dvoe-na-kachelyah-spektakl_2026-08-20",
+        "title": "Двое на качелях. Спектакль",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Гранд-холл Сибирь",
+        "resolvedVenue": "Международный выставочно-деловой центр «Сибирь»",
+        "startDate": "2026-08-20T19:00:00+07:00",
+        "endDate": "2026-08-20T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/kz-grand-holl-sibir/dvoe-na-kachelyah-spektakl_2026-08-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dvadtsat-minut-s-angelom-9",
+        "title": "Двадцать минут с ангелом",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/dvadtsat-minut-s-angelom-9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:chelovek-iz-podolska-ktd-im-pushkina",
+        "title": "Человек из Подольска",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/chelovek-iz-podolska-ktd-im-pushkina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:per-gyunt",
+        "title": "Пер Гюнт",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-09T20:00:00+07:00",
+        "endDate": "2026-06-09T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/per-gyunt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:zvuki-moey-rodinyi-tk-iran",
+        "title": "Звуки моей Родины (ТК, Иран)",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-31T14:00:00+07:00",
+        "endDate": "2026-05-31T16:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/zvuki-moey-rodinyi-tk-iran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:ya-takoe-derevo",
+        "title": "Я такое дерево",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-14T18:00:00+07:00",
+        "endDate": "2026-06-14T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/ya-takoe-derevo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:myi-geroi-1",
+        "title": "Мы, герои",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-24T18:00:00+07:00",
+        "endDate": "2026-05-24T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/myi-geroi-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:djek-6",
+        "title": "Джек",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-13T19:00:00+07:00",
+        "endDate": "2026-05-13T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/djek-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:svadba-na-diete",
+        "title": "Свадьба на диете",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/svadba-na-diete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:mokraya-kuritsa-a-ne-muj",
+        "title": "Мокрая курица, а не муж",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-23T14:00:00+07:00",
+        "endDate": "2026-05-23T16:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/mokraya-kuritsa-a-ne-muj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:ne-prints-i-daje-ne-kon-pod-printsem",
+        "title": "Не принц, и даже не конь под принцем",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-25T19:00:00+07:00",
+        "endDate": "2026-05-25T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/ne-prints-i-daje-ne-kon-pod-printsem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:papa-na-vyirost",
+        "title": "Папа на вырост",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-10T20:00:00+07:00",
+        "endDate": "2026-05-10T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/papa-na-vyirost"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:idealnaya-jenaili-illyuziya-obmana",
+        "title": "Идеальная жена...или иллюзия обмана?",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-17T17:00:00+07:00",
+        "endDate": "2026-05-17T19:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/idealnaya-jenaili-illyuziya-obmana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kokteyl-figaro",
+        "title": "Коктейль Фигаро",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-03T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/kokteyl-figaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:na-grani-1",
+        "title": "На грани",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-02T14:30:00+07:00",
+        "endDate": "2026-05-02T17:00:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/na-grani-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:morin-huur-mongolskiy-tk",
+        "title": "Морин хуур (Монгольский ТК)",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-06-02T20:00:00+07:00",
+        "endDate": "2026-06-02T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/morin-huur-mongolskiy-tk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:i-hochetsya-i-koletsya-i-mama-ne-velit",
+        "title": "И хочется, и колется, и мама не велит",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-08T19:00:00+07:00",
+        "endDate": "2026-05-08T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/i-hochetsya-i-koletsya-i-mama-ne-velit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:stolik-na-troih",
+        "title": "Столик на троих",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-22T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/stolik-na-troih"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:mne-chay-i-viski-s-koloy_2026-05-06",
+        "title": "Мне чай и виски с колой",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-06T19:00:00+07:00",
+        "endDate": "2026-05-06T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/dom-aktera-2/mne-chay-i-viski-s-koloy_2026-05-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:fam-fatal-ili-pravda-rasskazannaya-jenschinami",
+        "title": "Фам фаталь, или Правда, рассказанная женщинами",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-30T20:00:00+07:00",
+        "endDate": "2026-05-30T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/fam-fatal-ili-pravda-rasskazannaya-jenschinami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:ochen-opasnoe-meropriyatie-1",
+        "title": "Ставьте чайник, или очень опасное мероприятие",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-01T20:00:00+07:00",
+        "endDate": "2026-05-01T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/ochen-opasnoe-meropriyatie-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:ya-tebya-lyublyu",
+        "title": "Я тебя люблю",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-03T20:00:00+07:00",
+        "endDate": "2026-05-03T22:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/ya-tebya-lyublyu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:den-schastya-odin-prekrasnyiy-den",
+        "title": "День счастья (Один прекрасный день)",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-02T20:30:00+07:00",
+        "endDate": "2026-05-02T23:00:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/den-schastya-odin-prekrasnyiy-den"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:devyanosto-na-denyanosto",
+        "title": "Девяносто на девяносто",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-09T18:00:00+07:00",
+        "endDate": "2026-05-09T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/devyanosto-na-denyanosto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dom-vverh-dnom-ili-chetvero-pod-odeyalom-ne-schitaya-slujanki_2026-05-23",
+        "title": "Дом вверх дном, или Четверо под одеялом, не считая служанки",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-23T17:00:00+07:00",
+        "endDate": "2026-05-23T19:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/dom-aktera-2/dom-vverh-dnom-ili-chetvero-pod-odeyalom-ne-schitaya-slujanki_2026-05-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kakoy-idiotizm-roditsya-jenschinoy",
+        "title": "Какой идиотизм родиться женщиной",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-23T19:00:00+07:00",
+        "endDate": "2026-04-23T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/kakoy-idiotizm-roditsya-jenschinoy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:nash-syin-babnik",
+        "title": "Наш сын – бабник",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-04-29T19:00:00+07:00",
+        "endDate": "2026-04-29T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/nash-syin-babnik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lyubov-bez-pafosa",
+        "title": "Любовь. Без пафоса!",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-15T19:00:00+07:00",
+        "endDate": "2026-06-15T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/lyubov-bez-pafosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8756067,
+          56.0087597
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:loj_2026-05-04",
+        "title": "ЛОЖЬ!",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Дом Актера (Красноярск)",
+        "resolvedVenue": "Дом актера",
+        "startDate": "2026-05-04T19:00:00+07:00",
+        "endDate": "2026-05-04T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/dom-aktera-2/loj_2026-05-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:son-smeshnogo-cheloveka-6",
+        "title": "Сон смешного человека",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-26T19:00:00+07:00",
+        "endDate": "2026-05-26T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/son-smeshnogo-cheloveka-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:krotkaya-14",
+        "title": "Кроткая",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/krotkaya-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:legenda-o-velikom-inkvizitore",
+        "title": "Легенда о Великом инквизиторе",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-27T19:00:00+07:00",
+        "endDate": "2026-05-27T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/legenda-o-velikom-inkvizitore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dubrovskiy-13",
+        "title": "Дубровский",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-04-30T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/dubrovskiy-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:egorkina-byilina-avanpremera",
+        "title": "Егоркина былина",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-15T19:00:00+07:00",
+        "endDate": "2026-05-15T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/egorkina-byilina-avanpremera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:harms--18",
+        "title": "Хармс",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-22T19:00:00+07:00",
+        "endDate": "2026-05-22T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/harms--18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:djeyn-ostin-na-bolote",
+        "title": "Джейн Остин на болоте",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-12T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/djeyn-ostin-na-bolote"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:volshebnyiy-mir-zakulisya-1",
+        "title": "Волшебный мир закулисья",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/volshebnyiy-mir-zakulisya-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dialog-s-kinovedom-teatr-v-kadre",
+        "title": "Диалог с киноведом: театр в кадре",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-04-24T19:00:00+07:00",
+        "endDate": "2026-04-24T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/dialog-s-kinovedom-teatr-v-kadre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:povest-o-nastoyaschem-cheloveke-1",
+        "title": "Повесть о настоящем человеке",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-08T19:00:00+07:00",
+        "endDate": "2026-05-08T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/povest-o-nastoyaschem-cheloveke-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:metel",
+        "title": "Метель",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/metel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:moy-dom",
+        "title": "Мой дом",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-08T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/moy-dom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lyubit-na-voyne",
+        "title": "Любить на войне",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-10T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/lyubit-na-voyne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:ermak",
+        "title": "Ермак",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-31T18:00:00+07:00",
+        "endDate": "2026-05-31T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/ermak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lesnoe-pianino",
+        "title": "Лесное пианино",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/lesnoe-pianino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:masterskie-krasopera",
+        "title": "Мастерские krasOpera",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-14T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/masterskie-krasopera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:mashenka-i-medved--4",
+        "title": "Машенька и Медведь",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-16T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/mashenka-i-medved--4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:den-i-noch",
+        "title": "День и ночь",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-10T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/den-i-noch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:moy-volshebnyiy-nosok",
+        "title": "Мой волшебный носок",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/moy-volshebnyiy-nosok"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8567633,
+          56.0123995
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:pozyivnoy-tishina-spektakl-chitka",
+        "title": "Позывной Тишина. Спектакль-читка",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский театр кукол",
+        "resolvedVenue": "Театр кукол",
+        "startDate": "2026-05-07T19:00:00+07:00",
+        "endDate": "2026-05-07T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/pozyivnoy-tishina-spektakl-chitka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:pikovaya-dama",
+        "title": "Пиковая дама",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-06-17T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/pikovaya-dama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:hojdenie-po-mukam",
+        "title": "Хождение по мукам: Сестры",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-03T18:00:00+07:00",
+        "endDate": "2026-05-03T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/hojdenie-po-mukam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:vkrasnoy-shapochke",
+        "title": "VКрасной шапочке",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-06-07T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/vkrasnoy-shapochke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:balet-romeo-i-djuletta",
+        "title": "Ромео и Джульетта",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-05-28T18:00:00+07:00",
+        "endDate": "2026-05-28T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/balet-romeo-i-djuletta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8683859,
+          56.0086564
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:koshkin-dom-19",
+        "title": "Кошкин дом",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский государственный театр оперы и балета",
+        "resolvedVenue": "Красноярский государственный театр оперы и балета",
+        "startDate": "2026-06-13T00:00:00+07:00",
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/koshkin-dom-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:prestuplenie-i-nakazanie-14",
+        "title": "Преступление и наказание",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/prestuplenie-i-nakazanie-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:xii-noch-ili-kak-vam-budet-ugodno",
+        "title": "XII ночь, или Как вам будет угодно",
+        "category": "theatre",
+        "tags": "kids, theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-15T19:00:00+07:00",
+        "endDate": "2026-05-15T21:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/xii-noch-ili-kak-vam-budet-ugodno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:dve-sestryi-3",
+        "title": "Две сестры",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-07T18:00:00+07:00",
+        "endDate": "2026-06-07T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/dve-sestryi-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:samoubiytsa-9",
+        "title": "Самоубийца",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-12T18:00:00+07:00",
+        "endDate": "2026-06-12T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/samoubiytsa-9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:les-18",
+        "title": "Лес",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-13T17:00:00+07:00",
+        "endDate": "2026-06-13T19:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/les-18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:zemlya-elzyi-10",
+        "title": "Земля Эльзы",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/zemlya-elzyi-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:nojnitsyi-3",
+        "title": "Ножницы",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/nojnitsyi-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:macheha-samanishvili_2026-06-06",
+        "title": "Мачеха Саманишвили",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-06-06T15:00:00+07:00",
+        "endDate": "2026-06-06T17:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/macheha-samanishvili_2026-06-06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:kovarstvo-i-lyubov-3",
+        "title": "Коварство и любовь",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": null,
+        "endDate": null,
+        "sourceUrl": "https://krs.kassir.ru/teatr/kovarstvo-i-lyubov-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:lyubov-i-golubi_2026-05-30",
+        "title": "Любовь и голуби",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-30T18:00:00+07:00",
+        "endDate": "2026-05-30T20:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/teatr-imeni-as-pushkina/lyubov-i-golubi_2026-05-30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8655693,
+          56.0114288
+        ]
+      },
+      "properties": {
+        "id": "kassir:krs:teatr:s-dnem-rojdeniya-yaga",
+        "title": "С Днем рождения, Яга!",
+        "category": "theatre",
+        "tags": "theatre",
+        "venue": "Красноярский драмтеатр им. А.С. Пушкина",
+        "resolvedVenue": "Красноярский драматический театр имени А. С. Пушкина",
+        "startDate": "2026-05-17T12:00:00+07:00",
+        "endDate": "2026-05-17T14:30:00+07:00",
+        "sourceUrl": "https://krs.kassir.ru/teatr/s-dnem-rojdeniya-yaga"
+      }
+    }
+  ]
+}

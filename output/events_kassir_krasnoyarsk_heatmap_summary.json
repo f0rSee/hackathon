@@ -23,7 +23,10 @@
     "Эвенкийский районный культурно-досуговый центр"
   ],
   "geocoded_events": 262,
+  "geocoded_venues": 24,
   "geocoded_ratio": 0.8562,
+  "kepler_events_geojson": "/home/claw/projects/hackathon/output/kepler_kassir_krasnoyarsk_events.geojson",
+  "kepler_venues_geojson": "/home/claw/projects/hackathon/output/kepler_kassir_krasnoyarsk_venues.geojson",
   "top_venues": [
     {
       "venue": "Красноярский драмтеатр им. А.С. Пушкина",
